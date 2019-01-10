@@ -19,6 +19,22 @@ layout: default
 <div class="container">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
+  <p><strong>Halaman tidak ditemukan :(</strong></p>
   <p>The requested page could not be found.</p>
 </div>
+
+
+
+<script src="{{ site.baseurl }}/assets/js/redirect.js"></script>
+<script type="text/javascript">
+  window.onload = function(e){
+    var url_path = window.location.origin;
+    alert(url_baru[url_path]);
+    alert(url_baru[url_path]);
+    if(url_path in Object.keys(url_baru)) {
+      var next_url = url_baru[url_path];
+      document.getElementById('container').innerHTML = 'Halaman sudah berganti alamat ke' + next_url + '<br> Halaman akan segera dialihkan';
+      setTimeout(window.location.replace(next_url), 2000);
+    }
+  };
+</script>
