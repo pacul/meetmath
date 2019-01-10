@@ -17,8 +17,8 @@ name: MeetMath
 email: info@meetmath.com
 description: >- # this means to ignore newlines until "baseurl:"
   MeetMath Matematika.
-baseurl: "/meetmath" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "/meetmath" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meetmath
 github_username:  pacul
 permalink: /:categories-:title:output_ext
@@ -26,8 +26,13 @@ permalink: /:categories-:title:output_ext
 markdown: kramdown
 plugins:
   - jekyll-feed
+future: true
 
-# Exclude from processing.
+
+
+
+
+  # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:

@@ -11,3 +11,27 @@ layout: default
 </div>
 
 </article>
+{% assign this_category = page.categories[0] %}
+
+    {% if site.categories[this_category].size > 1 %}
+<aside class="related">
+<h2>Artikel terkait :</h2>
+<ul>
+
+    {% for category in site.categories  %}
+      {% for post in category[1]  %}
+          {% for category in post.categories %}
+          {% if category == this_category and post.title != page.title %}
+          <li class="article-title">
+            <a class="article-link" href="{{ site.baseurl }}{{ post.url }}" title="Permalink to {{ post.title|striptags }}">{{ post.title }}</a>
+          </li>
+          {% endif %}
+          {% endfor %}
+      {% endfor %}
+    {% endfor %}
+
+</ul>
+</aside>
+  	{% endif %}
+
+

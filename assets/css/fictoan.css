@@ -5935,6 +5935,13 @@ section#article-list ul {
   margin-top: 5px;
   margin-bottom: 20px;
 }
+aside.related {
+  margin-top: 80px;
+}
+aside.related h2 {
+  font-size: 1em;
+  font-weight: 400;
+}
 /*p { color : rgba($colorShade, 0.72); }
 strong { font-weight : 600; }
 
@@ -5999,6 +6006,10 @@ section:first-of-type { margin-top: initial; }
     overflow : scroll;
 }
 */
+/*# sourceMappingURL=fictoan.css.map */
+/*# sourceMappingURL=fictoan.css.map */
+/*# sourceMappingURL=fictoan.css.map */
+/*# sourceMappingURL=fictoan.css.map */
 /*# sourceMappingURL=fictoan.css.map */
 /*# sourceMappingURL=fictoan.css.map */
 /*# sourceMappingURL=fictoan.css.map */

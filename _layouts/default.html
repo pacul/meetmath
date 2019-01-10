@@ -39,13 +39,13 @@
                   {% if tags_list.first[0] == null %}
                     {% for tag in tags_list %} 
                     <li class="nav-item">          
-                      <a href="{{ site.baseurl }}/{{ tag }}">{{ tag | capitalize }}</a>
+                      <a href="{{ site.baseurl }}/{{ tag | downcase }}.html">{{ tag | capitalize }}</a>
                     </li>
                     {% endfor %}
                   {% else %}
                     {% for tag in tags_list %} 
                     <li class="nav-item">          
-                      <a href="{{ site.baseurl }}/{{ tag[0] }}">{{ tag[0] | capitalize }}</a>
+                      <a href="{{ site.baseurl }}/{{ tag[0] | downcase }}.html">{{ tag[0] | capitalize }}</a>
                     </li>
                     {% endfor %}
                   {% endif %}
