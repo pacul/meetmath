@@ -12,7 +12,6 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fictoan.css" />
 </head>
 
-{% if jekyll.environment == 'production' %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
 <script>
@@ -22,7 +21,6 @@
 
   gtag('config', '{{site.google_analytics}}');
 </script>
-{% endif %}
 
 <body class="padded-content">
     <header class="ff-header margin-bottom-tiny">
@@ -59,7 +57,7 @@
     {{ content }}
     
     <footer>
-        <div class="text-tiny">&copy; 2019 <a href="/about.html">MeetMath</a>.! &lt;/&gt;</div>
+        <div class="text-tiny">&copy; <a href="{{ site.baseurl }}/about.html">MeetMath</a>.! &lt;/&gt;</div>
     </footer>
 
 

@@ -17,7 +17,8 @@ name: MeetMath
 email: info@meetmath.com
 description: >- # this means to ignore newlines until "baseurl:"
   MeetMath Matematika.
-baseurl: "/meetmath" # the subpath of your site, e.g. /blog
+#baseurl: "/meetmath" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meetmath
 github_username:  pacul
@@ -27,6 +28,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 future: true
+google_analytics: ""
 
 
 

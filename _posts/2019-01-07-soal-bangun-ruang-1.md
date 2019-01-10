@@ -2,7 +2,7 @@
 layout: post
 title:  Bangun Ruang
 date:   2019-01-07 15:24:31 +0700
-categories: DimensiTiga
+categories: [Dimensi Tiga]
 tags: Materi
 permalink: soal-bangun-ruang.html
 ---
