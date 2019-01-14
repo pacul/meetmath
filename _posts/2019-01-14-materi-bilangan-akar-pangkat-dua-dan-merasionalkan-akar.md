@@ -35,7 +35,7 @@ $p{\\color{Red} \\sqrt{a}}-q{\\color{Red} \\sqrt{a}}=(p-q){\\color{Red} \\sqrt{a
 
 $\\sqrt{\\color{Red} a}\\times \\sqrt{\\color{Red} b}=\\sqrt{\\color{Red} ab}$
 
-$\\frac{\\sqrt\\color{Red} a}{\\sqrt\\color{Red} b}=\\sqrt{\\color{Red} \\frac ab}$
+$\\frac{\\sqrt{\\color{Red} a}}{\\sqrt{\\color{Red} b}}=\\sqrt{\\color{Red} \\frac ab}$
 
 Contoh :
 
@@ -73,7 +73,7 @@ ingat bahwa $(a+b)(a-b)\\;=\\;a^2-b^2$ maka berlaku pula pada bentuk akar sehing
     
     Contoh Rasionalkan penyebut bentuk akar di bawah ini :
     
-    \\begin{align\*}1.\\:\\:\\:\\frac{5}{\\sqrt{3}+\\sqrt{7}}&=&\\frac{\\color{Red} 5}{\\color{Red} \\sqrt{3}+\\sqrt{7}}\\times \\frac{\\color{DarkGreen} \\sqrt{3}-\\sqrt{7}}{\\color{DarkGreen} \\sqrt{3}-\\sqrt{7}\\\\&=& \\frac{\\color{Red} 5}\\left ( {\\color{DarkGreen} \\sqrt{3}-\\sqrt{7}} \\right )}{\\left (\\color{Red} \\sqrt{3}+\\sqrt{7} \\right )}\\left ( {\\color{DarkGreen} \\sqrt{3}-\\sqrt{7}} \\right )}\\\\&=&\\frac{\\color{Red} 5}{\\color{DarkGreen} \\sqrt{3}}-{\\color{Red} 5}{\\color{DarkGreen} \\sqrt{7}}{3-7}\\\\&=&\\frac{5\\sqrt{3}-5\\sqrt{7}}{-4}\\\\&atau&\\\\&=&-\\frac{5}{4}\\left ( \\sqrt{3}-\\sqrt{7} \\right )\\end{align\*}
+    \\begin{align\*}1.\\:\\:\\:\\frac{5}{\\sqrt{3}+\\sqrt{7}}&=&\\frac{\\color{Red} 5}{\\color{Red} \\sqrt{3}+\\sqrt{7}}\\times \\frac{\\color{DarkGreen} \\sqrt{3}-\\sqrt{7}}{\\color{DarkGreen} \\sqrt{3}-\\sqrt{7}}\\\\&=& \\frac{\\color{Red} 5\\left ( {\\color{DarkGreen} \\sqrt{3}-\\sqrt{7}} \\right )}{\\left (\\color{Red} \\sqrt{3}+\\sqrt{7} \\right )}\\left ( {\\color{DarkGreen} \\sqrt{3}-\\sqrt{7}} \\right )}\\\\&=&\\frac{\\color{Red} 5}{\\color{DarkGreen} \\sqrt{3}}-{\\color{Red} 5}{\\color{DarkGreen} \\sqrt{7}}{3-7}\\\\&=&\\frac{5\\sqrt{3}-5\\sqrt{7}}{-4}\\\\&atau&\\\\&=&-\\frac{5}{4}\\left ( \\sqrt{3}-\\sqrt{7} \\right )\\end{align\*}
     
     Nah, bagaimana dengan contoh lainnya? (ayuuuuk kita coba akar yang agak ribet dikit kali yeee…)
     
