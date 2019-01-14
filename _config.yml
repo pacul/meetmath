@@ -31,6 +31,16 @@ future: true
 google_analytics: ""
 
 
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://pacul.github.io/meetmath/'
+  relativeLinks: 'http://pacul.github.io/meetmath/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
 
 
 
