@@ -5,7 +5,7 @@ date: '2019-01-14 15:24:31 +0700'
 categories:
   - Turunan
 tags: Materi
-permalink: turunan-persamaan-garis-singgung-kurva.html
+permalink: materi-turunan-persamaan-garis-singgung-kurva.html
 title: Turunan Persamaan Garis Singgung Kurva
 ---
 Dalam materi turunan terdapat sub bab mengenai Persamaan Garis Singgung suatu Kurva,lho… mari kita kupas materinya beserta latihan soal persamaan garis singgung kurva,yuks…
