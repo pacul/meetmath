@@ -60,7 +60,7 @@ Kita rangkum Rumus Kubus dengan rusuk = r
 
 Contoh soal :
 
-1.  Jika diketahui kubus dengan diagonal sisinya 26–√cm26cm2\\sqrt 6 cm , tentukan diagonal ruang kubus !
+1.  Jika diketahui kubus dengan diagonal sisinya $2\\sqrt 6$ cm , tentukan diagonal ruang kubus !
     
     jawab :
     
@@ -75,11 +75,11 @@ Contoh soal :
     \\begin{align\*}diag.ruang&=&{\\color{Red} r}\\sqrt 3\\\\&=&({\\color{Red} 2\\sqrt 3})\\sqrt 3\\\\&=&2.3\\\\&=&6 \\end{align\*}  
      
     
-2.  Jika diketahui kubus ABCD.EFGH dengan rusuk 5cm5cm5 cm, tentukan luas BDHF !
+2.  Jika diketahui kubus ABCD.EFGH dengan rusuk 5 cm, tentukan luas BDHF !
     
     jawab :
     
-    perhatikan BDHF (bidang diagonal) dengan BF = 5 cm (rusuk) dan BD = 52–√cm52cm5\\sqrt 2 cm (diagonal sisi)
+    perhatikan BDHF (bidang diagonal) dengan BF = 5 cm (rusuk) dan BD = $5\\sqrt 2$ cm (diagonal sisi)
     
     maka luas BDHF
     
@@ -114,9 +114,9 @@ Latihan soal bangun ruang yang berkaitan dengan jarak dan sudut
 
 
     
-    titik B dan garis EG berada dalam satu bidang yaitu segitiga BEG(sama sisi) perhatikan bahwa BE , BG dan EG adalah diagonal sisi sehingga BE = BG = EG = 42–√cm42cm4\\sqrt 2 cm
+    titik B dan garis EG berada dalam satu bidang yaitu segitiga BEG(sama sisi) perhatikan bahwa BE , BG dan EG adalah diagonal sisi sehingga BE = BG = EG = $4\\sqrt 2$ cm
     
-    proyeksi titik B di garis EG adalah titik P (di tengah EG) sehingga GP = 22–√cm22cm2\\sqrt 2 cm
+    proyeksi titik B di garis EG adalah titik P (di tengah EG) sehingga GP = $2\\sqrt 2$ cm
     
     jarak yang akan kita cari adalah panjang garis BP
     
