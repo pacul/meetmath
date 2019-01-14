@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Dimensi Tiga Kubus"
-date:   2019-01-07 15:24:31 +0700
-categories: ["Dimensi Tiga"]
+title: Dimensi Tiga Kubus
+date: '2019-01-14 15:24:31 +0700'
+categories:
+  - Dimensi Tiga
 tags: Materi
 permalink: materi-dimensi-tiga-kubus.html
+published: true
 ---
 
 
@@ -15,7 +17,10 @@ Untuk itulah kita wajib tau tiap bangun ruang . Target kita yang pertama adalah 
 
 Nah, mari kita kupas tentang sifat-sifat si Kubus ini !
 
-KUBUS ABCD.EFGH![](http://www.meetmath.com/media/posts/1/responsive/kubus01-xs.jpg)
+KUBUS ABCD.EFGH
+![]({{site.baseurl}}/)![dimensi-tiga-kubus-1.jpg]({{site.baseurl}}/_posts/dimensi-tiga-kubus-1.jpg)
+
+
 
 Dalam kubus ABCD.EFGH terdapat :
 
@@ -25,7 +30,8 @@ Yuuuk kita cari rumus diagonal sisi dan diagonal ruang pada kubus ABCD.EFGH dulu
 
 *   kita akan cari diagonal sisi AC, perhatikan bidang ABCD (persegi)  
       
-    ![](http://www.meetmath.com/media/posts/1/responsive/kubus-xs.png)  
+    ![dimensi-tiga-kubus-2.jpg.png]({{site.baseurl}}/_posts/dimensi-tiga-kubus-2.jpg.png)
+
       
     
     
@@ -35,20 +41,18 @@ Yuuuk kita cari rumus diagonal sisi dan diagonal ruang pada kubus ABCD.EFGH dulu
   
 
 *   kita akan cari diagonal ruang AG, perhatikan bidang diagonal ACGE (persegi panjang)  
-    ![](http://www.meetmath.com/media/posts/1/responsive/kubus2-xs.jpg)  
+    ![dimensi-tiga-kubus-3.jpg]({{site.baseurl}}/_posts/dimensi-tiga-kubus-3.jpg)
+
     
     
     \\begin{align}AG&=&\\sqrt{AC^2+CG^2}\\\\&=&\\sqrt{(r\\sqrt 2)^2+r^2}\\\\&=&\\sqrt{2r^2+r^2}\\\\&=&\\sqrt{3r^2}\\\\&=&r\\sqrt 3\\end{align}
 
 Kita rangkum Rumus Kubus dengan rusuk = r
 
-> diagonal sisi kubus = r2–√r2r\\sqrt 2
-> 
-> diagonal ruang kubus = r3–√r3r\\sqrt 3
-> 
-> Luas permukaan kubus = 6.r26.r26.r^2
-> 
-> Volume kubus = r3r3r^3
+- diagonal sisi kubus = r2–√r2r\\sqrt 2
+- diagonal ruang kubus = r3–√r3r\\sqrt 3
+- Luas permukaan kubus = 6.r26.r26.r^2
+- Volume kubus = r3r3r^3
 
 Contoh soal :
 
@@ -58,13 +62,11 @@ Contoh soal :
     
     pertama kita cari rusuk nya dulu ya,
     
-    diag.sisir2–√rr\=\=\=\=26–√26–√26–√2–√23–√diag.sisi\=26r2\=26r\=262r\=23
     
     \\begin{align\*}diag.sisi&=&2\\sqrt 6\\\\r\\sqrt 2&=&2\\sqrt 6\\\\r&=&\\frac{2\\sqrt 6}{\\sqrt 2}\\\\r&=&2\\sqrt 3 \\end{align\*} 
     
     maka diagonal ruang kubus :
     
-    diag.ruang\=\=\=\=r3–√(23–√)3–√2.36diag.ruang\=r3\=(23)3\=2.3\=6
     
     \\begin{align\*}diag.ruang&=&{\\color{Red} r}\\sqrt 3\\\\&=&({\\color{Red} 2\\sqrt 3})\\sqrt 3\\\\&=&2.3\\\\&=&6 \\end{align\*}  
      
@@ -77,7 +79,6 @@ Contoh soal :
     
     maka luas BDHF
     
-    LBDHF\=\=\=BD×BF52–√×5252–√cm2LBDHF\=BD×BF\=52×5\=252cm2
     
     \\begin{align\*}L\_{BDHF}&=&BD\\times BF\\\\&=&5\\sqrt 2\\times 5\\\\&=&25\\sqrt 2\\;\\;cm^2\\end{align\*} 
     
@@ -87,7 +88,6 @@ Contoh soal :
     
     pertama kita cari rusuknya ya..   
     
-    diag.sisir2–√rr\=\=\=\=\=6662–√.2–√2–√622–√32–√diag.sisi\=6r2\=6r\=62.22\=622r\=32
     
     \\begin{align\*}diag.sisi&=&6\\\\r\\sqrt 2&=&6\\\\r&=&\\frac{6}{\\sqrt 2}.\\frac{\\sqrt 2}{\\sqrt 2}\\\\&=&\\frac{6}{2}\\sqrt 2\\\\r&=&3\\sqrt 2\\end{align\*}  
       
@@ -107,7 +107,8 @@ Latihan soal bangun ruang yang berkaitan dengan jarak dan sudut
     
     jawab :
     
-    ![](http://www.meetmath.com/media/posts/1/responsive/kubus0-xs.jpg)
+    ![dimensi-tiga-kubus-4.jpg]({{site.baseurl}}/_posts/dimensi-tiga-kubus-4.jpg)
+
     
     titik B dan garis EG berada dalam satu bidang yaitu segitiga BEG(sama sisi) perhatikan bahwa BE , BG dan EG adalah diagonal sisi sehingga BE = BG = EG = 42–√cm42cm4\\sqrt 2 cm
     
@@ -121,7 +122,7 @@ Latihan soal bangun ruang yang berkaitan dengan jarak dan sudut
     
     jawab :
     
-    ![](http://www.meetmath.com/media/posts/1/responsive/kubus0-xs.jpg)
+    ![dimensi-tiga-kubus-4.jpg]({{site.baseurl}}/_posts/dimensi-tiga-kubus-4.jpg)
     
     *   titik A dan garis EC berada dalam satu bidang yaitu segitiga AEC
     *   perhatikan bahwa AE adalah rusuk, kita misalkan AE = r , sedangkan AC adalah diagonal sisi maka kita misalkan AC\=r2–√AC\=r2AC = r\\sqrt 2
