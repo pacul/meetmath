@@ -29,12 +29,10 @@ $F(x) = 3x2$ akan mempunyai turunan $F ‘(x) = 6x$
 ini dapat berarti $f(x) = 6x$ maka integral dari $f(x) = 6x$ adalah $F(x) = 3x2$
 
 Rumus Integral
-
-- $\\Large \\int {\\color{Blue} a}x^{\\color{DarkRed} n}\\;dx=\\frac{\\color{Blue} a}{\\color{DarkRed} n}+1}\\;x^{n+1}+C$ untuk $n\\neq -1$
-- $\\Large \\int \\frac 1x\\;dx=ln\\;x+C$
+-$\\Large \\int {\\color{Blue} a}x^{\\color{DarkRed} n}\\;dx=\\frac{\\color{Blue} a}{\\color{DarkRed} n}+1}\\;x^{n+1}+C$ untuk $n\\neq -1$
+-$\\Large \\int \\frac 1x\\;dx=ln\\;x+C$
 
 Contoh :
-
 \\begin{align\*}1.\\;\\;\\int {\\color{Blue} 3}x^{\\color{Red} 2}dx&=&\\frac{\\color{Blue} 3}{\\color{Red} 2}+1}\\;x^{\\color{Red} 2}+1}+C\\\\&=&x^3\\;\\;+\\;C \\end{align\*}
 
 \\begin{align\*}2.\\;\\;\\int \\sqrt{x}\\;dx&=&\\int x^{\\frac 12}\\;dx\\\\&=&\\frac{1}{\\frac 12+1}\\;x^{\\frac 12+1}+C\\\\&=&\\frac{\\;\\;1\\;\\;}{\\frac 32}\\;x^{\\frac 32}+C\\\\&=&\\frac 23\\;x\\sqrt{x}+C \\end{align\*}
