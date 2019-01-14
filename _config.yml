@@ -22,7 +22,7 @@ baseurl: "/meetmath" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meetmath
 github_username:  pacul
-permalink: /:categories-:title:output_ext
+permalink: /:tags-:title:output_ext
 # Build settings
 markdown: kramdown
 plugins:
