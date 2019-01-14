@@ -51,7 +51,7 @@ diberikan fungsi :
     
     fungsi $f(x)$ disubtitusikan terlebih dahulu ke fungsi $g(x)$ nah, hasilnya baru disubtitusikan ke fungsi $h(x)$, perhatikan warna mewakili subtitusi ….ok!
     
-    \\begin{align\*}(h\\circ g\\circ f)(x)&=&{\\color{DarkGreen} h}({\\color{Blue} g}({\\color{Red} f(x)}))\\\\&=&{\\color{DarkGreen} h}({\\color{Blue} g}({\\color{Red} 2x+1}))\\\\&=&{\\color{DarkGreen} h}({\\color{Blue} 3}({\\color{Red} 2x+1})^{\\color{Blue} 2})\\\\&=&{\\color{DarkGreen} h}(3(4x^2+4x+1))\\\\&=&{\\color{DarkGreen} h}(12x^2+12x+3)\\\\&=&\\frac{{\\color{DarkGreen} 1}}{\\left (12x^2+12x+3 \\right ){\\color{DarkGreen} +4}}\\\\&=&\\frac{1}{12x^2+12x+7}\\end{align\*}
+    \\begin{align\*}(h\\circ g\\circ f)(x)&=&{\\color{DarkGreen} h}({\\color{Blue} g}({\\color{Red} f(x)}))\\\\&=&{\\color{DarkGreen} h}({\\color{Blue} g}({\\color{Red} 2x+1}))\\\\&=&{\\color{DarkGreen} h}({\\color{Blue} 3}({\\color{Red} 2x+1})^{\\color{Blue} 2})\\\\&=&{\\color{DarkGreen} h}(3(4x^2+4x+1))\\\\&=&{\\color{DarkGreen} h}(12x^2+12x+3)\\\\&=&\\frac{\\color{DarkGreen} 1}{\\left (12x^2+12x+3 \\right ){\\color{DarkGreen} +4}}\\\\&=&\\frac{1}{12x^2+12x+7}\\end{align\*}
     
 
 Bagaimana contoh diatas? sudah cukup jelas,kan ?!
