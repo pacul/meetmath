@@ -19,7 +19,7 @@ Bilangan berpangkat yang paling kita hafal adalah bilangan berpangkat dua dan be
 
 Pangkat Bulat Positif
 
-$$\\large a^n=\\underset{sebanyak\\;\\; n}{a\\times a\\times a\\times...\\times a\\times a}$$
+$\\large a^n=\\underset{sebanyak\\;\\; n}{a\\times a\\times a\\times...\\times a\\times a}$
 
 contoh :
 
@@ -32,7 +32,7 @@ contoh :
 
 Pangkat Bulat Negatif
 
-$$\\large \\begin{align\*}a^{-n} & = & \\frac{1}{a^n}\\\\ & = & \\underset{sebanyak\\;\\; n}{\\frac 1a\\times \\frac 1a\\times \\frac 1a\\times...\\times \\frac 1a} \\end{align\*}$$
+$\\large \\begin{align\*}a^{-n} & = & \\frac{1}{a^n}\\\\ & = & \\underset{sebanyak\\;\\; n}{\\frac 1a\\times \\frac 1a\\times \\frac 1a\\times...\\times \\frac 1a} \\end{align\*}$
 
 Contoh :
 
