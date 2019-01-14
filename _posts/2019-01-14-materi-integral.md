@@ -30,8 +30,8 @@ ini dapat berarti $f(x) = 6x$ maka integral dari $f(x) = 6x$ adalah $F(x) = 3x2$
 
 Rumus Integral
 
-> $\\Large \\int {\\color{Blue} a}x^{\\color{DarkRed} n}\\;dx=\\frac{\\color{Blue} a}{\\color{DarkRed} n}+1}\\;x^{n+1}+C$ untuk $n\\neq -1$
-> $\\Large \\int \\frac 1x\\;dx=ln\\;x+C$
+- $\\Large \\int {\\color{Blue} a}x^{\\color{DarkRed} n}\\;dx=\\frac{\\color{Blue} a}{\\color{DarkRed} n}+1}\\;x^{n+1}+C$ untuk $n\\neq -1$
+- $\\Large \\int \\frac 1x\\;dx=ln\\;x+C$
 
 Contoh :
 
