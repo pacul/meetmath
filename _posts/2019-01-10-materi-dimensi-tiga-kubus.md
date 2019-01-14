@@ -18,7 +18,9 @@ Untuk itulah kita wajib tau tiap bangun ruang . Target kita yang pertama adalah 
 Nah, mari kita kupas tentang sifat-sifat si Kubus ini !
 
 KUBUS ABCD.EFGH
-![]({{site.baseurl}}/)![dimensi-tiga-kubus-1.jpg]({{site.baseurl}}/_posts/dimensi-tiga-kubus-1.jpg)
+
+![dimensi-tiga-kubus-1.jpg]({{site.baseurl}}/media/dimensi-tiga-kubus-1.jpg)
+
 
 
 
@@ -30,7 +32,8 @@ Yuuuk kita cari rumus diagonal sisi dan diagonal ruang pada kubus ABCD.EFGH dulu
 
 *   kita akan cari diagonal sisi AC, perhatikan bidang ABCD (persegi)  
       
-    ![dimensi-tiga-kubus-2.jpg.png]({{site.baseurl}}/_posts/dimensi-tiga-kubus-2.jpg.png)
+    ![dimensi-tiga-kubus-2.jpg.png]({{site.baseurl}}/media/dimensi-tiga-kubus-2.jpg.png)
+
 
       
     
@@ -41,7 +44,8 @@ Yuuuk kita cari rumus diagonal sisi dan diagonal ruang pada kubus ABCD.EFGH dulu
   
 
 *   kita akan cari diagonal ruang AG, perhatikan bidang diagonal ACGE (persegi panjang)  
-    ![dimensi-tiga-kubus-3.jpg]({{site.baseurl}}/_posts/dimensi-tiga-kubus-3.jpg)
+    ![dimensi-tiga-kubus-3.jpg]({{site.baseurl}}/media/dimensi-tiga-kubus-3.jpg)
+
 
     
     
@@ -107,7 +111,8 @@ Latihan soal bangun ruang yang berkaitan dengan jarak dan sudut
     
     jawab :
     
-    ![dimensi-tiga-kubus-4.jpg]({{site.baseurl}}/_posts/dimensi-tiga-kubus-4.jpg)
+    ![dimensi-tiga-kubus-4.jpg]({{site.baseurl}}/media/dimensi-tiga-kubus-4.jpg)
+
 
     
     titik B dan garis EG berada dalam satu bidang yaitu segitiga BEG(sama sisi) perhatikan bahwa BE , BG dan EG adalah diagonal sisi sehingga BE = BG = EG = 42–√cm42cm4\\sqrt 2 cm
@@ -122,7 +127,7 @@ Latihan soal bangun ruang yang berkaitan dengan jarak dan sudut
     
     jawab :
     
-    ![dimensi-tiga-kubus-4.jpg]({{site.baseurl}}/_posts/dimensi-tiga-kubus-4.jpg)
+    ![dimensi-tiga-kubus-4.jpg]({{site.baseurl}}/media/dimensi-tiga-kubus-4.jpg)
     
     *   titik A dan garis EC berada dalam satu bidang yaitu segitiga AEC
     *   perhatikan bahwa AE adalah rusuk, kita misalkan AE = r , sedangkan AC adalah diagonal sisi maka kita misalkan AC\=r2–√AC\=r2AC = r\\sqrt 2
