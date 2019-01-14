@@ -60,4 +60,4 @@ Contoh soal dan pembahasan:
 
 \\begin{align\*}4.\\;\\;^{2}log (2x - 6) & = & 3 \\\\ (2x - 6) & = & 2^3 \\\\ 2x & = & 8 + 6 \\\\ x & = & \\frac {14}{2} \\\\ x & = & 7 \\end{align\*}
 
-dengan sifat yang ada, penyelesaian soal tiap siswapun dapat bervariasi berdasar sifat-sifat yang dipakai masing-masing, namun tentu saja menghasilkan hasil akhir yang sama, jadi tetap peDe dalam mengerjakan,yah….
+dengan sifat yang ada, penyelesaian soal tiap siswa pun dapat bervariasi berdasar sifat-sifat yang dipakai masing-masing, namun tentu saja menghasilkan hasil akhir yang sama, jadi tetap peDe dalam mengerjakan,yah….
