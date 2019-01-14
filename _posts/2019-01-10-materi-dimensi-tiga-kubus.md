@@ -67,12 +67,12 @@ Contoh soal :
     pertama kita cari rusuk nya dulu ya,
     
     
-    \\begin{align\*}diag.sisi&=&2\\sqrt 6\\\\r\\sqrt 2&=&2\\sqrt 6\\\\r&=&\\frac{2\\sqrt 6}{\\sqrt 2}\\\\r&=&2\\sqrt 3 \\end{align\*} 
+    \\begin{align\*}diagonal sisi&=&2\\sqrt 6\\\\r\\sqrt 2&=&2\\sqrt 6\\\\r&=&\\frac{2\\sqrt 6}{\\sqrt 2}\\\\r&=&2\\sqrt 3 \\end{align\*} 
     
     maka diagonal ruang kubus :
     
     
-    \\begin{align\*}diag.ruang&=&{\\color{Red} r}\\sqrt 3\\\\&=&({\\color{Red} 2\\sqrt 3})\\sqrt 3\\\\&=&2.3\\\\&=&6 \\end{align\*}  
+    \\begin{align\*}diagonal ruang&=&{\\color{Red} r}\\sqrt 3\\\\&=&({\\color{Red} 2\\sqrt 3})\\sqrt 3\\\\&=&2.3\\\\&=&6 \\end{align\*}  
      
     
 2.  Jika diketahui kubus ABCD.EFGH dengan rusuk 5 cm, tentukan luas BDHF !
@@ -93,7 +93,7 @@ Contoh soal :
     pertama kita cari rusuknya ya..   
     
     
-    \\begin{align\*}diag.sisi&=&6\\\\r\\sqrt 2&=&6\\\\r&=&\\frac{6}{\\sqrt 2}.\\frac{\\sqrt 2}{\\sqrt 2}\\\\&=&\\frac{6}{2}\\sqrt 2\\\\r&=&3\\sqrt 2\\end{align\*}  
+    \\begin{align\*}diagonal sisi&=&6\\\\r\\sqrt 2&=&6\\\\r&=&\\frac{6}{\\sqrt 2}.\\frac{\\sqrt 2}{\\sqrt 2}\\\\&=&\\frac{6}{2}\\sqrt 2\\\\r&=&3\\sqrt 2\\end{align\*}  
       
     maka volume kubus :  
     
