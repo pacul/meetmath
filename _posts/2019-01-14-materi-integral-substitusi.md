@@ -6,6 +6,7 @@ categories:
   - Integral
 tags: Materi
 title: Integral Substitusi
+permalink: materi-integral-substitusi.html
 ---
 Yuuuuuuk belajar lagi…!!!!
 
