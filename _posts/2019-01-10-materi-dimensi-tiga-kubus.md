@@ -53,10 +53,10 @@ Yuuuk kita cari rumus diagonal sisi dan diagonal ruang pada kubus ABCD.EFGH dulu
 
 Kita rangkum Rumus Kubus dengan rusuk = r
 
-- diagonal sisi kubus = r2–√r2r\\sqrt 2
-- diagonal ruang kubus = r3–√r3r\\sqrt 3
-- Luas permukaan kubus = 6.r26.r26.r^2
-- Volume kubus = r3r3r^3
+- diagonal sisi kubus = $r\\sqrt 2$
+- diagonal ruang kubus = $r\\sqrt 3$
+- Luas permukaan kubus = $6.r^2$
+- Volume kubus = $r^3$
 
 Contoh soal :
 
@@ -129,7 +129,7 @@ Latihan soal bangun ruang yang berkaitan dengan jarak dan sudut
     ![dimensi-tiga-kubus-4.jpg]({{site.baseurl}}/media/dimensi-tiga-kubus-4.jpg)
     
     *   titik A dan garis EC berada dalam satu bidang yaitu segitiga AEC
-    *   perhatikan bahwa AE adalah rusuk, kita misalkan AE = r , sedangkan AC adalah diagonal sisi maka kita misalkan AC\=r2–√AC\=r2AC = r\\sqrt 2
+    *   perhatikan bahwa AE adalah rusuk, kita misalkan $AE = r$ , sedangkan AC adalah diagonal sisi maka kita misalkan $AC = r\\sqrt 2$
     *   proyeksi titik A di garis EC adalah titik Q ( AQ tegak lurus EC)
     *   jarak yang akan kita cari adalah panjang garis AQ
     
