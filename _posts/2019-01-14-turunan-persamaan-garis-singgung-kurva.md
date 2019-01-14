@@ -22,7 +22,7 @@ Gradien Garis disimbolkan dengan $\\Large m$ dimana :
 
 *   gradien pada persamaan garis $y={\\color{Red} m}x+c$ adalah $m$
     
-*   gradien pada persamaan garis ${\\color{Green} a}x+{\\color{Blue} b}y=c$ adalah ${\\color{Red} m}=-\\frac{{\\color{Green} a}}{{\\color{Blue} b}}$
+*   gradien pada persamaan garis ${\\color{Green} a}x+{\\color{Blue} b}y=c$ adalah ${\\color{Red} m}=-\\frac{\\color{Green} a}{\\color{Blue} b}$
     
 *   gradien jika diketahui dua titik $(x1,y1)$ dan $(x2,y2)$ adalah ${\\color{Red} m}=\\frac{y\_2-y\_1}{x\_2-x\_1}$
     
@@ -114,7 +114,7 @@ ayooo langsung kita praktikkan…
         
         ingat :
         
-        $ {\\color{Green} a}x+{\\color{Blue} b}y=c$ maka ${\\color{Red} m}=-\\frac{{\\color{Green} a}}{{\\color{Blue} b}}$
+        $ {\\color{Green} a}x+{\\color{Blue} b}y=c$ maka ${\\color{Red} m}=-\\frac{\\color{Green} a}{\\color{Blue} b}$
         
         untuk $ x – 2y +13 = 0$ maka ${\\color{Red} m}=-\\frac{1}{(-2)}=\\frac 12$
         
