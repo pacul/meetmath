@@ -5,7 +5,7 @@ date: '2019-01-14 15:24:31 +0700'
 categories:
   - Integral
 tags: Materi
-title: Integral 1
+title: Integral
 permalink: materi-integral.html
 ---
 Bagaimana kalau kali ini kita membahas tentang integral….??!! mulai dari integral sederhana,integral subtitusi, integral parsial, integral trigonometri sampai latihan dan contoh soal integral.
