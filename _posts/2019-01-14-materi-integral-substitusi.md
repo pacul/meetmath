@@ -28,7 +28,7 @@ contoh soal dan pembahasan integral subtitusi :
     
     Jawab :
     
-    *   kita misalkan u=5x-3 dan fungsi u dapat diturunkan menjadi
+    *   kita misalkan $u=5x-3$ dan fungsi $u$ dapat diturunkan menjadi
     
     \\begin{align}{\\color{Red} u}&=&{\\color{Red} 5x-3}\\\\\\frac{du}{dx}&=&5\\\\dx&=&{\\color{Blue} \\frac 15\\;du} \\end{align}
     
@@ -42,7 +42,7 @@ contoh soal dan pembahasan integral subtitusi :
     
     Jawab :
     
-    *   kita misalkan $u=3x^2-3x+5$ dan fungsi u dapat diturunkan menjadi :
+    *   kita misalkan $u=3x^2-3x+5$ dan fungsi $u$ dapat diturunkan menjadi :
     
     \\begin{align\*}{\\color{Red} u}&=&{\\color{Red} 3x^2-3x+5}\\\\\\frac {du}{dx}&=&6x-3\\\\dx&=&{\\color{Blue} \\frac{1}{6x-3}\\;du}\\end{align\*}
     
@@ -54,7 +54,7 @@ contoh soal dan pembahasan integral subtitusi :
     
     Jawab :
     
-    *   kita misalkan $u=2x^3+1$ dan fungsi u dapat diturunkan menjadi
+    *   kita misalkan $u=2x^3+1$ dan fungsi $u$ dapat diturunkan menjadi
     
     \\begin{align\*}{\\color{Red} u}&=&{\\color{Red} 2x^3+1}\\\\\\frac{du}{dx}&=&6x^2\\\\dx&=&{\\color{Blue} \\frac{1}{6x^2}\\;du} \\end{align\*}
     
