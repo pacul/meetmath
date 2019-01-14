@@ -58,7 +58,7 @@ Nahâ€¦sekarang langsung ke contoh soal integral dan pembahasannya lagi yuuuuksâ€
     
     Jawab :
     
-    \\begin{align\*} \\int f(x)\\;dx&=&\\int {\\color{Red} 5}x^{\\color{Red} 4}+{\\color{Blue} \\frac{2\\pi}{3}}\\;dx\\\\&=&\\frac{\\color{Blue} 5}{\\color{Red} 4}+1\\;x^{\\color{Red} 4}+1+{\\color{Blue} \\frac{2\\pi}{3}\\;x^{\\color{Red} 0+1}+C\\\\&=&x^5+\\frac{2\\pi}{3}\\;x+C\\end{align\*}
+    \\begin{align\*} \\int f(x)\\;dx&=&\\int {\\color{Red} 5}x^{\\color{Red} 4}+{\\color{Blue} \\frac{2\\pi}{3}}\\;dx\\\\&=&\\frac{\\color{Blue} 5}{\\color{Red} 4}+1\\;x^{\\color{Red} 4}+1+{\\color{Blue} \\frac{2\\pi}{3}}\\;x^{\\color{Red} 0}+1+C\\\\&=&x^5+\\frac{2\\pi}{3}\\;x+C\\end{align\*}
     
 2.  Jika $f(x)=\\int 3x^2-2x+6\\;dx$ dan $f(0)=-6$ maka $f(x)$=....
     
