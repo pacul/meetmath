@@ -97,7 +97,6 @@ Contoh soal :
       
     maka volume kubus :  
     
-    V\=\=\=\=r3(32–√)327.22–√542–√cm3V\=r3\=(32)3\=27.22\=542cm3
     
     \\begin{align\*}V&=&r^3\\\\&=&(3\\sqrt 2)^3\\\\&=&27.2\\sqrt 2\\\\&=&54\\sqrt 2\\;\\;cm^3\\end{align\*}  
       
