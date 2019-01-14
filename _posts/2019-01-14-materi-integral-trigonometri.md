@@ -6,7 +6,7 @@ categories:
   - Integral
 tags: Materi
 title: Integral Trigonometri
-permalink: null
+permalink: materi-integral-trigonometri.html
 ---
 Integral Trigonometri Ayooooo….belajar trigonometri lagi…!!!!!
 
