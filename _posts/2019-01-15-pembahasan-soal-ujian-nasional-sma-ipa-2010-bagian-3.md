@@ -6,7 +6,7 @@ categories:
   - Ujian Nasional
 tags: Soal
 permalink: pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-3.html
-title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bag.3
+title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 3
 ---
 Berikut adalah kelanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 2]({{site.baseurl}}/pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-2.html).
 
