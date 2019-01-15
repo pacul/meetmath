@@ -6,7 +6,7 @@ categories:
   - Ujian Nasional
 tags: Soal
 permalink: pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-5.html
-title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bag.5
+title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 5
 ---
 ini dia lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 4]({{site.baseurl}}/pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-4.html)
 
