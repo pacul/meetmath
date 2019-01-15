@@ -5,8 +5,8 @@ date: '2019-01-15 16:08:31 +0700'
 categories:
   - Turunan
 tags: Soal
-permalink: soal-turunan-1-aljabar.html
-title: Soal Turunan 1 Aljabar
+permalink: soal-turunan-aljabar-1.html
+title: ''
 ---
 Soal-soal turunan ini diambil dari soal ujian sekolah, Ebtanas, maupun Ujian Nasional.
 
