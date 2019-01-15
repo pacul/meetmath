@@ -56,12 +56,12 @@ Berikut adalah pertanyaan yang masuk tentang peluang, cekidot :
     
     Cara yang paling simple adalah menggunakan bantuan tabel pengambilan pertama dan pengambilan kedua
     
-||1|2|3|4|
-|--- |--- |--- |--- |--- |
-|1|11|12|13|14|
-|2|21|22|23|24|
-|3|31|32|33|34|
-|4|41|42|43|44|
+    ||1|2|3|4|
+    |--- |--- |--- |--- |--- |
+    |1|11|12|13|14|
+    |2|21|22|23|24|
+    |3|31|32|33|34|
+    |4|41|42|43|44|
     
     *   Semua hasil yang mungkin adalah = 16 cara pengambilan.
     *   Peluang jumlah angka dari kedua bola yang terambil kurang dari 5 artinya pengambilan pertama dan pengambilan kedua jika ditambahkan angkanya harus kurang dari lima yaitu 2, 3, dan 4, perhatikan tabel !!!
