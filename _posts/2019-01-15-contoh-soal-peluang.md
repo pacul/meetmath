@@ -54,7 +54,7 @@ Berikut adalah pertanyaan yang masuk tentang peluang, cekidot :
     
     Jawab :
     
-    Cara yang paling simple adalah menggunakan bantuan tabel pengambilan pertama dan pengambilan kedua
+    Cara yang paling sederhana adalah menggunakan bantuan tabel pengambilan pertama dan pengambilan kedua
     
     ||1|2|3|4|
     |--- |--- |--- |--- |--- |
