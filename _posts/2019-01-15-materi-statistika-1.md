@@ -60,6 +60,8 @@ $f\_D$ | \= frekuensi kelas desil
 
 \*letak kls Desil | \= $\\frac{i.n}{10}$
 
+
+
 Langsung ke contoh dan pembahasan soal data tunggal 1. Diketahui data sebagai berikut : 5, 6, 4, 8, 7, 3, 8, 9, 4, 10 . Tentukan $\\large \\bar x$, Modus, Median, Kuartil ke-3, dan desil ke-7 ! jawab :
 
 urutan data:
