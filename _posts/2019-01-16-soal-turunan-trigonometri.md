@@ -8,7 +8,7 @@ tags: Soal
 permalink: soal-turunan-trigonometri.html
 title: Contoh Soal Turunan Trigonometri
 ---
-Tanya jawab kali ni membahas tentang turunan trigonometri…
+Contoh soal kali ini membahas tentang turunan trigonometri
 
 Yang masih bingung silahkan disimak materi tanya jawab berikut….ok???!!!
 
