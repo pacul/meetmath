@@ -64,7 +64,7 @@ Ayoooo….kita coba!!!
     
     Jawab :
     
-    ingat rumus cepat mencari invers dari $\\large f(x)=\\frac{ {\\color{Red} a}x+b}{cx+{\\color{Red} d}}$ adalah $\\large f^{-1}(x)=\\frac{{\\color{Red} -d}x+b}{cx{\\color{Red} -a}}$
+    ingat rumus cepat mencari invers dari $\\large f(x)=\\frac{ {\\color{Red} a}x+b}{cx+{\\color{Red} d}}$ adalah $\\large f^{-1}(x)=\\frac{ {\\color{Red} -d}x+b}{cx{\\color{Red} -a}}$
     
     hati-hati bentuk soal belum seperti standar untuk rumus cepat, sehingga harus kita ubah dulu menjadi :
     
