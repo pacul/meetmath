@@ -6,7 +6,7 @@ categories:
   - Ujian Nasional
 tags: Soal
 permalink: soal-ujian-nasional-sma-ipa-2010.html
-title: Soal Ujian Nasional SPA IPA 2010
+title: Soal Ujian Nasional SMA IPA 2010
 ---
 Berikut ini adalah soal-soal dari Ujian Nasional SMA IPA 2010.
 
