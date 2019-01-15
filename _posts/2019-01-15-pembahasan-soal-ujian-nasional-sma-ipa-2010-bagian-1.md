@@ -64,11 +64,11 @@ Ayoooo….kita coba!!!
     
     Jawab :
     
-    ingat rumus cepat mencari invers dari $\\large f(x)=\\frac{{\\color{Red} a}x+b}{cx+{\\color{Red} d}}$ adalah $\\large f^{-1}(x)=\\frac{{\\color{Red} -d}x+b}{cx{\\color{Red} -a}}$
+    ingat rumus cepat mencari invers dari $\\large f(x)=\\frac{ {\\color{Red} a}x+b}{cx+{\\color{Red} d}}$ adalah $\\large f^{-1}(x)=\\frac{{\\color{Red} -d}x+b}{cx{\\color{Red} -a}}$
     
     hati-hati bentuk soal belum seperti standar untuk rumus cepat, sehingga harus kita ubah dulu menjadi :
     
-    \\begin{align\*}f(x) & = & \\frac{1-5x}{x+2}\\\\f(x) & = & \\frac{{\\color{Red} -5}x+1}{x+{\\color{Red} 2}}\\\\f^{-1}(x) & = & \\frac{{\\color{Red} -2}x+1}{x+{\\color{Red} 5}}\\\\f^{-1}(-3) & = & \\frac{-2(-3)+1}{(-3)+5}\\\\ & = & \\frac 72\\end{align\*}
+    \\begin{align\*}f(x) & = & \\frac{1-5x}{x+2}\\\\f(x) & = & \\frac{ {\\color{Red} -5}x+1}{x+{\\color{Red} 2}}\\\\f^{-1}(x) & = & \\frac{ {\\color{Red} -2}x+1}{x+{\\color{Red} 5}}\\\\f^{-1}(-3) & = & \\frac{-2(-3)+1}{(-3)+5}\\\\ & = & \\frac 72\\end{align\*}
     
 4.  Toko A, toko B dan toko C menjual sepeda. Ketiga toko tersebut selalu berbelanja di distributor sepeda yang sama. Toko A harus membayar Rp5.500.000; untuk pembelian 5 sepeda jenis I dan 4 sepeda jenis II. Toko B harus membayar Rp 3.000.000; untuk pembelian 3 sepeda jenis I dan 2 sepeda jenis II. Jika toko C membeli 6 sepeda jenis I dan 2 sepeda jenis II, maka toko C harus membayar sebesar….
     
