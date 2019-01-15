@@ -6,7 +6,7 @@ categories:
   - Statistika
 tags: Materi
 permalink: materi-statistika-2.html
-title: Statistika 2
+title: Statistika Bagian 2
 ---
 Materi statistika 2 merupakan kelanjutan dari [Statistika 1](../../../../../02180-materi-statistika.html "Statistika 1"), sebelumnya telah kita punya rangkuman rumus statistika dan contoh soal pada data tunggal, nah sekarang kita akan berlatih contoh soal data berkelompok yuk…
 
