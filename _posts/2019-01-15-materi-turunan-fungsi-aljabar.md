@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2019-01-15 16:06:31 +0700'
 categories:
@@ -8,7 +8,7 @@ tags: Materi
 permalink: materi-turunan-fungsi-aljabar.html
 title: Turunan Fungsi Aljabar
 ---
-Materi Turunan (derivatif) mencakup materi turunan fungsi aljabar,turunan fungsi trigonometri, gradien garis singgung dan persamaan garis singgung pada suatu kurva tertentu, titik stasioner, fungsi naik dan fungsi turun. Lumayan banyak juga,yah…kita coba mulai dari fungsi aljabar dulu.
+Materi Turunan (derivatif) mencakup materi turunan fungsi aljabar, turunan fungsi trigonometri, gradien garis singgung dan persamaan garis singgung pada suatu kurva tertentu, titik stasioner, fungsi naik dan fungsi turun. Lumayan banyak juga,yah…kita coba mulai dari fungsi aljabar dulu.
 
 Turunan fungsi $f ‘ (x)$ didefinisikan sebagai :
 
