@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 8
 layout: post
-date: '2019-01-15 16:12:31 +0700'
+date: '2019-01-15 16:11:31 +0700'
 categories:
   - Ujian Nasional
 tags: Soal
