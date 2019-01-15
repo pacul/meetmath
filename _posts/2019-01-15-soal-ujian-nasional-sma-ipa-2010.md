@@ -499,29 +499,17 @@ Berlatihlah untuk mengerjakan soal ini sendiri terlebih dahulu, jika mengalami k
     
 40. Perhatikan tabel data berikut
     
-    Data
+    Data | Frekuensi
     
-    Frekuensi
+    10 – 19 | 2
     
-    10 – 19
+    20 – 29 | 8
     
-    2
+    30 – 39 | 12
     
-    20 – 29
+    40 – 49 | 7
     
-    8
-    
-    30 – 39
-    
-    12
-    
-    40 – 49
-    
-    7
-    
-    50 – 59
-    
-    3
+    50 – 59 | 3
     
     Median dari data pada tabel adalah …
     
