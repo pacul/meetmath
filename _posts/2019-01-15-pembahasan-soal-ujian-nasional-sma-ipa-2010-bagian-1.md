@@ -6,7 +6,7 @@ categories:
   - Ujian Nasional
 tags: Soal
 permalink: pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-1.html
-title: Pembahasan Soal Ujian Nasional SPA IPA 2010 Bag.1
+title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bag.1
 ---
 Berikut ini adalah pembahasan dari [Soal Ujian Nasional Matematika SMA IPA tahun 2010]({{site.baseurl}}/soal-ujian-nasional-sma-ipa-2010.html), satu paket soal UN yang akan kita bahas dibagi dalam beberapa posting supaya lebih fokus dalam belajar, yaaa
 
