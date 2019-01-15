@@ -28,30 +28,30 @@ B. Bagian-bagian dalam sebuah KUBUS
 ![](http://www.meetmath.com/media/posts/58/diagonal-sisi.gif)
 
 *   Panjang rusuk Kubus = _r_ cm
-*   Maka panjang diagonal sisinya = ![](http://www.meetmath.com/media/posts/58/CodeCogsEqn-3.gif) cm
-*   Sehingga panjang AF=BE=BG=CF=CH=DG=AH=DE=FH=EG=AC=BD= ![](http://www.meetmath.com/media/posts/58/CodeCogsEqn-3.gif) cm
+*   Maka panjang diagonal sisinya = $r\\sqrt\{2}$ cm
+*   Sehingga panjang AF=BE=BG=CF=CH=DG=AH=DE=FH=EG=AC=BD= $r\\sqrt\{2}$ cm
 
 3\. Diagonal Ruang Kubus = 4 buah
 
 ![](http://www.meetmath.com/media/posts/58/diag-sisi.gif)
 
 *   Panjang Rusuk kubus = _r_ cm
-*   Maka panjang Diagonal Ruang Kubus = ![](http://www.meetmath.com/media/posts/58/CodeCogsEqn-4.gif)
-*   Sehingga panjang AG=BH=CE=DF = ![](http://www.meetmath.com/media/posts/58/CodeCogsEqn-4.gif) cm
+*   Maka panjang Diagonal Ruang Kubus = $r\\sqrt\{3}$
+*   Sehingga panjang AG=BH=CE=DF = $r\\sqrt\{3}$ cm
 
 4\. Bidang Sisi Kubus = 6 buah
 
 ![](http://www.meetmath.com/media/posts/58/bidang-sisi.gif)
 
 *   Panjang rusuk kubus = r cm
-*   Maka Luas Bidang sisi Kubus = (r x r) = ![](http://www.meetmath.com/media/posts/58/CodeCogsEqn-2.gif)
-*   Sehingga Luas ABCD=Luas EFGH=Luas ABFE=Luas BCGF=Luas CDHG = Luas ADHE= ![](http://www.meetmath.com/media/posts/58/CodeCogsEqn-2.gif)
+*   Maka Luas Bidang sisi Kubus = (r x r) = $r^2$
+*   Sehingga Luas ABCD=Luas EFGH=Luas ABFE=Luas BCGF=Luas CDHG = Luas ADHE= $r^2$
 
 5\. Bidang Diagonal Kubus = 6 buah
 
 ![](http://www.meetmath.com/media/posts/58/bidang-diagonal.gif)
 
 *   Panjang rusuk kubus = _r_ cm
-*   Panjang diagonal sisi kubus = ![](http://www.meetmath.com/media/posts/58/CodeCogsEqn-3.gif)
-*   Maka Luas Bidang diagonal kubus = ![](http://www.meetmath.com/media/posts/58/CodeCogsEqn-5.gif)
-*   Sehingga Luas ACGE= Luas BDHF = Luas ABGH = Luas BCHE= Luas CDEF = Luas ADGF = ![](http://www.meetmath.com/media/posts/58/CodeCogsEqn-5.gif)
+*   Panjang diagonal sisi kubus = $r\\sqrt\{2}$
+*   Maka Luas Bidang diagonal kubus = $r^2\\sqrt\{2}$
+*   Sehingga Luas ACGE= Luas BDHF = Luas ABGH = Luas BCHE= Luas CDEF = Luas ADGF =  $r^2\\sqrt\{2}$
