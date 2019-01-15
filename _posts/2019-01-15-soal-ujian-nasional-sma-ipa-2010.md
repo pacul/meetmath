@@ -130,412 +130,412 @@ Berlatihlah untuk mengerjakan soal ini sendiri terlebih dahulu, jika mengalami k
     
     E. $\\frac{14}{3}$
     
-10.  Bentuk sederhana dari $\\Large\\frac{(5a^3b^{-2})^4}{(5a^{-4}b^{-5})^{-2}}$ adalah….
+10. Bentuk sederhana dari $\\Large\\frac{(5a^3b^{-2})^4}{(5a^{-4}b^{-5})^{-2}}$ adalah….
     
-   A. $5^6a^4b^{-18}$
+    A. $5^6a^4b^{-18}$
     
-   B. $5^6a^4b^2$
+    B. $5^6a^4b^2$
     
-   C. $5^2a^4b^2$
+    C. $5^2a^4b^2$
     
-   D. $5^6ab^{-1}$
+    D. $5^6ab^{-1}$
     
-   E. $5^6a^9b^{-1}$
-  
-11.  Bentuk sederhana dari $\\Large\\frac{6(3+\\sqrt5)(3-\\sqrt5)}{2+\\sqrt6}$ = …
+    E. $5^6a^9b^{-1}$
     
-   A. $24+12\\sqrt6$
+11. Bentuk sederhana dari $\\Large\\frac{6(3+\\sqrt5)(3-\\sqrt5)}{2+\\sqrt6}$ = …
     
-   B. $-24+12\\sqrt6$
+    A. $24+12\\sqrt6$
     
-   C. $24-12\\sqrt6$
+    B. $-24+12\\sqrt6$
     
-   D. $-24-\\sqrt6$
+    C. $24-12\\sqrt6$
     
-   E. $-24-12\\sqrt6$
+    D. $-24-\\sqrt6$
     
-12.  Suku banyak $2x^3+ax^2+bx+2$ dibagi $(x+1)$ sisanya $6$ dan dibagi $(x-2)$ sisanya $24$. Nilai $2a-b$ = …
+    E. $-24-12\\sqrt6$
     
-   A. 0
+12. Suku banyak $2x^3+ax^2+bx+2$ dibagi $(x+1)$ sisanya $6$ dan dibagi $(x-2)$ sisanya $24$. Nilai $2a-b$ = …
     
-   B. 2
+    A. 0
     
-   C. 3
+    B. 2
     
-   D. 6
+    C. 3
     
-   E. 9
+    D. 6
     
-13.  Diketahui segitiga $PQR$ dengan $P(1, 5, 1) ; Q(3 , 4 , 1)$ dan $R(2 , 2 , 1)$. Besar sudut $PQR$ adalah….
+    E. 9
     
-   A. $135^0$
+13. Diketahui segitiga $PQR$ dengan $P(1, 5, 1) ; Q(3 , 4 , 1)$ dan $R(2 , 2 , 1)$. Besar sudut $PQR$ adalah….
     
-   B. $90^0$
+    A. $135^0$
     
-   C. $60^0$
+    B. $90^0$
     
-   D. $45^0$
+    C. $60^0$
     
-   E. $30^0$
+    D. $45^0$
     
-14.  Diketahui segitiga $ABC$ dengan koordinat $A(2, -1, -1) ; B(-1 , 4 , -2)$ dan $C (5 , 0 , -3)$. Proyeksi vektor $\\overrightarrow{AB}$ pada $\\overrightarrow{AC}$ adalah…
+    E. $30^0$
     
-   A. $\\frac 14(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
-   
-   B. $\\frac{3}{14}(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
+14. Diketahui segitiga $ABC$ dengan koordinat $A(2, -1, -1) ; B(-1 , 4 , -2)$ dan $C (5 , 0 , -3)$. Proyeksi vektor $\\overrightarrow{AB}$ pada $\\overrightarrow{AC}$ adalah…
     
-   C. $-\\frac 17(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
+    A. $\\frac 14(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
     
-   D. $-\\frac{3}{14}(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
+    B. $\\frac{3}{14}(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
     
-   E. $-\\frac{3}{7}(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
+    C. $-\\frac 17(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
     
-15.  Perhatikan gambar grafik fungsi eksponen!
+    D. $-\\frac{3}{14}(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
     
-   ![Kurva1.jpg]({{site.baseurl}}/media/Kurva1.jpg)
+    E. $-\\frac{3}{7}(3\\overrightarrow{i}+\\overrightarrow{j}-2\\overrightarrow{k})$
     
-   Persamaan grafik fungsi invers pada gambar adalah….
+15. Perhatikan gambar grafik fungsi eksponen!
     
-   A. $y=^2log\\;x$
+    ![](http://www.meetmath.com/media/posts/23/responsive/Kurva1-xs.jpg)
     
-   B. $y=^{\\frac 12}log\\;x$
+    Persamaan grafik fungsi invers pada gambar adalah….
     
-   C. $y=2\\;log\\;x$
+    A. $y=^2log\\;x$
     
-   D. $y=-2\\;log\\;x$
+    B. $y=^{\\frac 12}log\\;x$
     
-   E.$y=-\\frac 12\\;log\\;x$
+    C. $y=2\\;log\\;x$
     
-16.  Bayangan kurva $y=x^2-x+3$ yang ditransformasikan oleh matriks \\left\[\\begin{array}{cc}0 & -1\\\\1 & 0\\end{array}\\right\] dilanjutkan oleh matriks \\left\[\\begin{array}{cc}-1 & 0\\\\0 & 1\\end{array}\\right\] adalah…
+    D. $y=-2\\;log\\;x$
     
-   A. $y=x^2+x+3$
+    E.$y=-\\frac 12\\;log\\;x$
     
-   B. $y=-x^2+x+3$
+16. Bayangan kurva $y=x^2-x+3$ yang ditransformasikan oleh matriks \\left\[\\begin{array}{cc}0 & -1\\\\1 & 0\\end{array}\\right\] dilanjutkan oleh matriks \\left\[\\begin{array}{cc}-1 & 0\\\\0 & 1\\end{array}\\right\] adalah…
     
-   C. $x=y^2-y+3$
+    A. $y=x^2+x+3$
     
-   D. $x=y^2+y+3$
+    B. $y=-x^2+x+3$
     
-   E. $x=-y^2+y+3$
+    C. $x=y^2-y+3$
     
-17.  Luas daerah parkir $1.760m^2$ luas rata-rata untuk mobil kecil $4\\;m^2$ dan mobil besar $20\\;m^2$. Daya tampung maksimum hanya 200 kendaraan, biaya parkir mobil kecil Rp 1000;/jam dan mobil besar Rp 2.000;/jam. Jika dalam satu jam terisi penuh dan tidak ada kendaraan yang pergi dan datang, maka penghasilan maksimum tempat parkir adalah…
+    D. $x=y^2+y+3$
     
-   A. Rp 176.000;
+    E. $x=-y^2+y+3$
     
-   B. Rp 200.000;
+17. Luas daerah parkir $1.760m^2$ luas rata-rata untuk mobil kecil $4\\;m^2$ dan mobil besar $20\\;m^2$. Daya tampung maksimum hanya 200 kendaraan, biaya parkir mobil kecil Rp 1000;/jam dan mobil besar Rp 2.000;/jam. Jika dalam satu jam terisi penuh dan tidak ada kendaraan yang pergi dan datang, maka penghasilan maksimum tempat parkir adalah…
     
-   C. Rp 260.000;
+    A. Rp 176.000;
     
-   D. Rp 300.000;
+    B. Rp 200.000;
     
-   E. Rp 340.000;
+    C. Rp 260.000;
     
-18.  Perhatikan premis-premis berikut !
+    D. Rp 300.000;
     
-   1.  Jika saya giat belajar maka saya bisa meraih juara.
-   2.  Jika saya bisa meraih juara maka saya boleh ikut bertanding.
+    E. Rp 340.000;
     
-   Ingkaran dari kesimpulan kedua premis di atas adalah…
+18. Perhatikan premis-premis berikut !
     
-   A. Saya giat belajar dan saya tidak boleh ikut bertanding.
+    1.  Jika saya giat belajar maka saya bisa meraih juara.
+    2.  Jika saya bisa meraih juara maka saya boleh ikut bertanding.
     
-   B. Saya giat belajar atau saya tidak boleh ikut bertanding.
+    Ingkaran dari kesimpulan kedua premis di atas adalah…
     
-   C. Saya giat belajar maka saya bisa meraih juara.
+    A. Saya giat belajar dan saya tidak boleh ikut bertanding.
     
-   D. Saya giat belajar dan saya boleh ikut bertanding.
+    B. Saya giat belajar atau saya tidak boleh ikut bertanding.
     
-   E. Saya ikut bertanding maka saya giat belajar.
+    C. Saya giat belajar maka saya bisa meraih juara.
     
-19.  Diketahui barisan aritmetika dengan Un adalah suku $ke-n$. Jika $U\_2+U\_{15}+U\_{40}=165$ maka $U\_{19} = $…
+    D. Saya giat belajar dan saya boleh ikut bertanding.
     
-   A. 10
+    E. Saya ikut bertanding maka saya giat belajar.
     
-   B. 19
+19. Diketahui barisan aritmetika dengan Un adalah suku $ke-n$. Jika $U\_2+U\_{15}+U\_{40}=165$ maka $U\_{19} = $…
     
-   C. 28,5
+    A. 10
     
-   D. 55
+    B. 19
     
-   E. 82,5
+    C. 28,5
     
-20.  Tiga bilangan membentuk barisan aritmetika dengan beda tiga. Jika suku kedua dikurangi 1, maka terbentuklah barisan geometri dengan jumlah 14. Rasio barisan tersebut adalah….
+    D. 55
     
-   A. 4
+    E. 82,5
     
-   B. 2
+20. Tiga bilangan membentuk barisan aritmetika dengan beda tiga. Jika suku kedua dikurangi 1, maka terbentuklah barisan geometri dengan jumlah 14. Rasio barisan tersebut adalah….
     
-   C. $\\frac 12$
+    A. 4
     
-   D. $-\\frac 12$
+    B. 2
     
-   E. – 2
+    C. $\\frac 12$
     
-21.  Diketahui kubus ABCD.EFGH. Nilai kosinus sudut antara CH dan bidang BDHF adalah…
+    D. $-\\frac 12$
     
-   A. $\\frac 12$
+    E. – 2
     
-   B. $\\frac 13\\sqrt3$
+21. Diketahui kubus ABCD.EFGH. Nilai kosinus sudut antara CH dan bidang BDHF adalah…
     
-   C. $\\frac 12\\sqrt2$
+    A. $\\frac 12$
     
-   D. $\\frac 12\\sqrt3$
+    B. $\\frac 13\\sqrt3$
     
-   E. $\\sqrt3$
+    C. $\\frac 12\\sqrt2$
     
-22.  ABCD.EFGH dengan panjang rusuk 6 cm. Jarak titik A ke garis CF adalah…
+    D. $\\frac 12\\sqrt3$
     
-   A. $6\\sqrt3 cm$
+    E. $\\sqrt3$
     
-   B. $6\\sqrt2 cm$
+22. ABCD.EFGH dengan panjang rusuk 6 cm. Jarak titik A ke garis CF adalah…
     
-   C. $3\\sqrt6 cm$
+    A. $6\\sqrt3 cm$
     
-   D. $3\\sqrt3 cm$
+    B. $6\\sqrt2 cm$
     
-   E. $3\\sqrt2 cm$
+    C. $3\\sqrt6 cm$
     
-23.  Luas segi 12 beraturan dengan panjang jari-jari lingkaran luar 8 cm adalah… A. $192 cm^2$
+    D. $3\\sqrt3 cm$
     
-   B. $172 cm^2$
+    E. $3\\sqrt2 cm$
     
-   C. $162 cm^2$
+23. Luas segi 12 beraturan dengan panjang jari-jari lingkaran luar 8 cm adalah… A. $192 cm^2$
     
-   D. $148 cm^2$
+    B. $172 cm^2$
     
-   E. $144 cm^2$
+    C. $162 cm^2$
     
-24.  Diketahui $p$ dan $q$ adalah sudut lancip dan $p-q=30^0$. Jika $cos\\;p.sin\\;=\\frac 16$, maka nilai dari $sin p. cos p = $…
+    D. $148 cm^2$
     
-   A. $\\frac 16$
+    E. $144 cm^2$
     
-   B. $\\frac 26$
+24. Diketahui $p$ dan $q$ adalah sudut lancip dan $p-q=30^0$. Jika $cos\\;p.sin\\;=\\frac 16$, maka nilai dari $sin p. cos p = $…
     
-   C. $\\frac 36$
+    A. $\\frac 16$
     
-   D. $\\frac 46$
+    B. $\\frac 26$
     
-   E. $\\frac 56$
+    C. $\\frac 36$
     
-25.  Hasil dari $$\\frac{cos(45-a)^{0}+cos(45+a)^{0}}{sin(45+a)^{0}+sin(45-a)^{0}}= $…
+    D. $\\frac 46$
     
-   A. $-\\sqrt2$
+    E. $\\frac 56$
     
-   B. $-1$
+25. Hasil dari $$\\frac{cos(45-a)^{0}+cos(45+a)^{0}}{sin(45+a)^{0}+sin(45-a)^{0}}= $…
     
-   C. $\\frac 12\\sqrt2$
+    A. $-\\sqrt2$
     
-   D. $1$
+    B. $-1$
     
-   E. $\\sqrt2$
+    C. $\\frac 12\\sqrt2$
     
-26.  Himpunan penyelesaian persamaan $cos\\;2x-sin\\;x=0$ untuk $0\\leq x\\leq 2\\pi$ adalah….
+    D. $1$
     
-   A. ${ \\frac{\\pi}{2},\\frac{\\pi}{3},\\frac{\\pi}{6} }$
+    E. $\\sqrt2$
     
-   B. ${ \\frac{\\pi}{6},\\frac{5\\pi}{6},\\frac{3\\pi}{2} }$
+26. Himpunan penyelesaian persamaan $cos\\;2x-sin\\;x=0$ untuk $0\\leq x\\leq 2\\pi$ adalah….
     
-   C. ${ \\frac{\\pi}{2},\\frac{\\pi}{6},\\frac{7\\pi}{6} }$
+    A. ${ \\frac{\\pi}{2},\\frac{\\pi}{3},\\frac{\\pi}{6} }$
     
-   D. ${ \\frac{7\\pi}{6},\\frac{4\\pi}{3},\\frac{11\\pi}{6} }$
+    B. ${ \\frac{\\pi}{6},\\frac{5\\pi}{6},\\frac{3\\pi}{2} }$
     
-   E. ${ \\frac{4\\pi}{3},\\frac{11\\pi}{6},2\\pi }$
+    C. ${ \\frac{\\pi}{2},\\frac{\\pi}{6},\\frac{7\\pi}{6} }$
     
-27.  Diketahui prisma segitiga tegak ABC.DEF. Panjang rusuk-rusuk alas AB = 5 cm, BC = 7 cm, dan AC = 8 cm. PAnjang rusuk tegak 10 cm, maka volume prisma tersebut adalah…
+    D. ${ \\frac{7\\pi}{6},\\frac{4\\pi}{3},\\frac{11\\pi}{6} }$
     
-   A. 100 cm2
+    E. ${ \\frac{4\\pi}{3},\\frac{11\\pi}{6},2\\pi }$
     
-   B. $100\\sqrt3 cm2$
+27. Diketahui prisma segitiga tegak ABC.DEF. Panjang rusuk-rusuk alas AB = 5 cm, BC = 7 cm, dan AC = 8 cm. PAnjang rusuk tegak 10 cm, maka volume prisma tersebut adalah…
     
-   C. 175 cm2
+    A. 100 cm2
     
-   D. 200 cm2
+    B. $100\\sqrt3 cm2$
     
-   E. $200\\sqrt{15} cm2$
+    C. 175 cm2
     
-28.  Jarak yang ditempuh sebuah mobil dalam waktu t diberikan oleh fungsi $s(t)=\\frac{1}{4}t^{4}-\\frac{3}{2}t^{3}-6t^{2}+5t$. Kecepatan maksimum mobil tersebut akan tercapai pada $t$ = ….
+    D. 200 cm2
     
-   A. 6 detik
+    E. $200\\sqrt{15} cm2$
     
-   B. 4 detik
+28. Jarak yang ditempuh sebuah mobil dalam waktu t diberikan oleh fungsi $s(t)=\\frac{1}{4}t^{4}-\\frac{3}{2}t^{3}-6t^{2}+5t$. Kecepatan maksimum mobil tersebut akan tercapai pada $t$ = ….
     
-   C. 3 detik
+    A. 6 detik
     
-   D. 2 detik
+    B. 4 detik
     
-   E. 1 detik
+    C. 3 detik
     
-29.  Garis singgung kurva $y=(x^{2}+2)^{2}$ yang melalui titik ( 1, 9) memotong sumbu $Y$ di titik ….
+    D. 2 detik
     
-   A. ( 0, 8 )
+    E. 1 detik
     
-   B. ( 0 , 4 )
+29. Garis singgung kurva $y=(x^{2}+2)^{2}$ yang melalui titik ( 1, 9) memotong sumbu $Y$ di titik ….
     
-   C. ( 0 , -3 )
+    A. ( 0, 8 )
     
-   D. ( 0 , -12 )
+    B. ( 0 , 4 )
     
-   E. ( 0, -21 )
+    C. ( 0 , -3 )
     
-30.  Nilai $\\Large\\lim\_{x\\to0}\\left ( \\frac{sin\\;x+sin\\;5x}{6x} \\right ) = $….
+    D. ( 0 , -12 )
     
-   A. 2
+    E. ( 0, -21 )
     
-   B. 1
+30. Nilai $\\Large\\lim\_{x\\to0}\\left ( \\frac{sin\\;x+sin\\;5x}{6x} \\right ) = $….
     
-   C. $\\frac{1}{2}$
+    A. 2
     
-   D. $\\frac{1}{3}$
+    B. 1
     
-   E. – 1
+    C. $\\frac{1}{2}$
     
-31.  Nilai $\\Large\\lim\_{x\\to2}\\left ( \\frac{2}{x-2}-\\frac{8}{x^{2}-4} \\right ) = $….
+    D. $\\frac{1}{3}$
     
-   A. $\\frac{1}{4}$
+    E. – 1
     
-   B. $\\frac{1}{2}$
+31. Nilai $\\Large\\lim\_{x\\to2}\\left ( \\frac{2}{x-2}-\\frac{8}{x^{2}-4} \\right ) = $….
     
-   C. 2
+    A. $\\frac{1}{4}$
     
-   D. 4
+    B. $\\frac{1}{2}$
     
-   E. $\\infty$
+    C. 2
     
-32.  Volume benda putar yang terjadi bila daerah yang dibatasi oleh kurva $y=x^{2} dan y=\\sqrt{x}$ diputar $36^0$ mengelilingi sumbu $X$ adalah …. 3
+    D. 4
     
-   A. $\\frac{3}{10}\\pi$ satuan volume
+    E. $\\infty$
     
-   B. $\\frac{5}{10}\\pi$ satuan volume
+32. Volume benda putar yang terjadi bila daerah yang dibatasi oleh kurva $y=x^{2} dan y=\\sqrt{x}$ diputar $36^0$ mengelilingi sumbu $X$ adalah …. 3
     
-   C. $\\frac{1}{3}\\pi$ satuan volume
+    A. $\\frac{3}{10}\\pi$ satuan volume
     
-   D. $\\frac{10}{3}\\pi$ satuan volume
+    B. $\\frac{5}{10}\\pi$ satuan volume
     
-   E. $2\\pi$ satuan volume
+    C. $\\frac{1}{3}\\pi$ satuan volume
     
-33.  Luas daerah di kuadran I yang dibatasi kurva $y=x^{3},\\;y=x\\;,\\;x=0$ dan garis $x=2$ adalah ….
+    D. $\\frac{10}{3}\\pi$ satuan volume
     
-   A. $2\\frac{1}{4}$ satuan luas
+    E. $2\\pi$ satuan volume
     
-   B. $2\\frac{1}{2}$ satuan luas
+33. Luas daerah di kuadran I yang dibatasi kurva $y=x^{3},\\;y=x\\;,\\;x=0$ dan garis $x=2$ adalah ….
     
-   C. $3\\frac{1}{4}$ satuan luas
+    A. $2\\frac{1}{4}$ satuan luas
     
-   D. $3\\frac{1}{2}$ satuan luas
+    B. $2\\frac{1}{2}$ satuan luas
     
-   E. $4\\frac{1}{4}$ satuan luas
+    C. $3\\frac{1}{4}$ satuan luas
     
-34.  Hasil dari $\\int\_{0}^{2}\\;3\\left ( x+1 \\right )\\left ( x-6 \\right ) dx = $….
+    D. $3\\frac{1}{2}$ satuan luas
     
-   A. $– 58$
+    E. $4\\frac{1}{4}$ satuan luas
     
-   B. $– 56$
+34. Hasil dari $\\int\_{0}^{2}\\;3\\left ( x+1 \\right )\\left ( x-6 \\right ) dx = $….
     
-   C. $– 28$
+    A. $– 58$
     
-   D. $– 16$
+    B. $– 56$
     
-   E. $– 14$
+    C. $– 28$
     
-35.  Nilai dari $\\int\_{\\frac{1}{2}\\pi}^{\\frac{2}{3}\\pi}cos\\;\\left ( 3x-\\pi \\right ) = $….
+    D. $– 16$
     
-   A. $– 1
+    E. $– 14$
     
-   B. $-\\frac{1}{3}$
+35. Nilai dari $\\int\_{\\frac{1}{2}\\pi}^{\\frac{2}{3}\\pi}cos\\;\\left ( 3x-\\pi \\right ) = $….
     
-   C. 0
+    A. $– 1
     
-   D. $\\frac{1}{3}$
+    B. $-\\frac{1}{3}$
     
-   E. 1
+    C. 0
     
-36.  Nilai dari $\\int \\left ( 3-6\\;sin^{2}x \\right )dx$ = ….
+    D. $\\frac{1}{3}$
     
-   A. $\\frac{3}{2}sin^{2}\\;2x+C$
+    E. 1
     
-   B. $\\frac{3}{2}cos^{2}\\;2x+C$
+36. Nilai dari $\\int \\left ( 3-6\\;sin^{2}x \\right )dx$ = ….
     
-   C. $\\frac{3}{4}sin\\;2x+C$
+    A. $\\frac{3}{2}sin^{2}\\;2x+C$
     
-   D. $3sin\\;x\\;cos\\;x+C$
+    B. $\\frac{3}{2}cos^{2}\\;2x+C$
     
-   E. $\\frac{3}{2}sin\\;2x\\;cos\\;2x+C$
+    C. $\\frac{3}{4}sin\\;2x+C$
     
-37.  Dalam ruang tunggu, terdapat tempat duduk sebanyak kursi yang akan diduduki oleh 4 pemuda dan 3 pemudi. Banyaknya cara duduk berjajar agar mereka dapat duduk selang seling pemuda dan pemudi dalam satu kelompok adalah….
+    D. $3sin\\;x\\;cos\\;x+C$
     
-   A. 12
+    E. $\\frac{3}{2}sin\\;2x\\;cos\\;2x+C$
     
-   B. 84
+37. Dalam ruang tunggu, terdapat tempat duduk sebanyak kursi yang akan diduduki oleh 4 pemuda dan 3 pemudi. Banyaknya cara duduk berjajar agar mereka dapat duduk selang seling pemuda dan pemudi dalam satu kelompok adalah….
     
-   C. 144
+    A. 12
     
-   D. 288
+    B. 84
     
-   E. 576
+    C. 144
     
-38.  Diketahui 7 titik dan tidak ada 3 titik atau lebih yang segaris. Banyaknya segitiga yang dapat dibentuk dari titik-titik tersebut adalah…
+    D. 288
     
-   A. 10
+    E. 576
     
-   B. 21
+38. Diketahui 7 titik dan tidak ada 3 titik atau lebih yang segaris. Banyaknya segitiga yang dapat dibentuk dari titik-titik tersebut adalah…
     
-   C. 30
+    A. 10
     
-   D. 35
+    B. 21
     
-   E. 70
+    C. 30
     
-39.  Sebuah kantong berisi 4 bola merah, 3 bola putih dan 3 bola hitam. Diambil sebuah bola secara acak, peluang terambilnya bola merah atau hitam adalah…
+    D. 35
     
-   A. $\\frac{4}{5}$
+    E. 70
     
-   B. $\\frac{7}{10}$
+39. Sebuah kantong berisi 4 bola merah, 3 bola putih dan 3 bola hitam. Diambil sebuah bola secara acak, peluang terambilnya bola merah atau hitam adalah…
     
-   C. $\\frac{3}{6}$
+    A. $\\frac{4}{5}$
     
-   D. $\\frac{2}{6}$
+    B. $\\frac{7}{10}$
     
-   E. $\\frac{1}{10}$
+    C. $\\frac{3}{6}$
     
-40.  Perhatikan tabel data berikut
+    D. $\\frac{2}{6}$
     
-   Data
+    E. $\\frac{1}{10}$
     
-   Frekuensi
+40. Perhatikan tabel data berikut
     
-   10 – 19
+    Data
     
-   2
+    Frekuensi
     
-   20 – 29
+    10 – 19
     
-   8
+    2
     
-   30 – 39
+    20 – 29
     
-   12
+    8
     
-   40 – 49
+    30 – 39
     
-   7
+    12
     
-   50 – 59
+    40 – 49
     
-   3
+    7
     
-   Median dari data pada tabel adalah …
+    50 – 59
     
-   A. $34,5+\\frac{16-10}{12}.10$
+    3
     
-   B. $34,5+\\frac{16-10}{12}.9$
+    Median dari data pada tabel adalah …
     
-   C. $29,5+\\frac{16-10}{12}.9$
+    A. $34,5+\\frac{16-10}{12}.10$
     
-   D. $29,5+\\frac{16-10}{12}.10$
+    B. $34,5+\\frac{16-10}{12}.9$
     
-   E. $38,5+\\frac{16-10}{12}.10$
+    C. $29,5+\\frac{16-10}{12}.9$
+    
+    D. $29,5+\\frac{16-10}{12}.10$
+    
+    E. $38,5+\\frac{16-10}{12}.10$
     
 
 selamat mencoba…………..!!!!
 
-Untuk mengecek jawaban kalian, temukan di [pembahasan soal Ujian Nasional SMA tahun 2010]({{site.baseurl}}/pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-1.html)
+Untuk mengecek jawaban kalian, temukan di pembahasan soal Ujian Nasional SMA tahun 2010
