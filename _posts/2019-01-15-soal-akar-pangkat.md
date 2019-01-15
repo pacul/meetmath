@@ -6,7 +6,7 @@ categories:
   - Pangkat
 tags: Soal
 permalink: soal-akar-pangkat.html
-title: Soal Akar Pangkat
+title: Contoh Soal Akar Pangkat
 ---
 Kali ini membahas tentang contoh soal dari merasionalkan penyebut bentuk akar pangkat 3 dua suku…
 
