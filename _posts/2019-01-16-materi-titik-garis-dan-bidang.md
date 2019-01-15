@@ -18,71 +18,73 @@ A. Kedudukan Titik, Garis, dan Bidang
 
 1\. Kedudukan Titik Terhadap Garis
 
-a. Titik terletak Pada Garis, dapat diartikan juga bahwa, garis melalui titik tersebut.
+  a. Titik terletak Pada Garis, dapat diartikan juga bahwa, garis melalui titik tersebut.
 
-![](http://www.meetmath.com/media/posts/52/NEW-titik-dalam-garis.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-titik-dalam-garis.gif)
 
-b. Titik terletak di Luar Garis, dapat diartikan juga bahwa, garis tidak melalui titik tersebut
+  b. Titik terletak di Luar Garis, dapat diartikan juga bahwa, garis tidak melalui titik tersebut
 
-![](http://www.meetmath.com/media/posts/52/NEW-titik-diluar-garis.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-titik-diluar-garis.gif)
 
 2\. Kedudukan Titik Terhadap Bidang
 
-a. Titik terletak pada Bidang, dapat diartikan juga bahwa, bidang melalui titik tersebut.
+  a. Titik terletak pada Bidang, dapat diartikan juga bahwa, bidang melalui titik tersebut.
 
-![](http://www.meetmath.com/media/posts/52/NEW-titik-dalam-bidang.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-titik-dalam-bidang.gif)
 
-b. Titik terletak di Luar Bidang
+  b. Titik terletak di Luar Bidang
 
-dapat diartikan juga bahwa, bidang sama sekali tidak melalui titik tersebut.
+   dapat diartikan juga bahwa, bidang sama sekali tidak melalui titik tersebut.
 
-![](http://www.meetmath.com/media/posts/52/NEW-titik-diluar-bidang.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-titik-diluar-bidang.gif)
 
 3\. Kedudukan Garis Terhadap Garis
 
-a. Dua Garis saling Berhimpit jika terdapat lebih dari satu titik persekutuan (titik potong)
+  a. Dua Garis saling Berhimpit jika terdapat lebih dari satu titik persekutuan (titik potong)
 
-![](http://www.meetmath.com/media/posts/52/NEW-garis-berimpit.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-garis-berimpit.gif)
 
-b. Dua Garis saling Berpotongan jika terdapat tepat satu titik persekutuan (titik potong)
+  b. Dua Garis saling Berpotongan jika terdapat tepat satu titik persekutuan (titik potong)
 
-![](http://www.meetmath.com/media/posts/52/NEW-garis-berpotongan.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-garis-berpotongan.gif)
 
-c. Dua Garis saling Sejajar jika tidak ada satupun titik persekutuan
+  c. Dua Garis saling Sejajar jika tidak ada satupun titik persekutuan
 
-![](http://www.meetmath.com/media/posts/52/NEW-garis-sejajar.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-garis-sejajar.gif)
 
-d. Dua Garis saling Bersilangan jika tidak saling Berpotongan, tidak saling Sejajar dan tidak terletak pada satu bidang
+  d. Dua Garis saling Bersilangan jika tidak saling Berpotongan, tidak saling Sejajar dan tidak terletak pada satu bidang
 
-![](http://www.meetmath.com/media/posts/52/NEW-garis-bersilangan.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-garis-bersilangan.gif)
 
 4\. Kedudukan Garis Terhadap Bidang
 
-a. Garis Terletak pada Bidang jika terdapat lebih dari satu titik persekutuan
+  a. Garis Terletak pada Bidang jika terdapat lebih dari satu titik persekutuan
 
-![](http://www.meetmath.com/media/posts/52/NEW-garis-dalam-bidang.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-garis-dalam-bidang.gif)
 
-b. Garis Sejajar pada Bidang jika sama sekali tidak terdapat titik persekutuan
+  b. Garis Sejajar pada Bidang jika sama sekali tidak terdapat titik persekutuan
 
-![](http://www.meetmath.com/media/posts/52/NEW-garis-sejajar-bidang.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-garis-sejajar-bidang.gif)
 
-c. Garis Berpotongan pada Bidang jika terdapat tepat satu titik persekutuan (titik tembus)
+  c. Garis Berpotongan pada Bidang jika terdapat tepat satu titik persekutuan (titik tembus)
 
-![](http://www.meetmath.com/media/posts/52/NEW-garis-memotong-bidang.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-garis-memotong-bidang.gif)
 
 5\. Kedudukan Bidang terhadap Bidang
 
-a. Dua Bidang saling Berimpit, jika setiap titik di satu Bidang, juga terletak pada Bidang lainya
+  a. Dua Bidang saling Berimpit, jika setiap titik di satu Bidang, juga terletak pada Bidang lainya
 
-![](http://www.meetmath.com/media/posts/52/NEW-bidang-berimpit.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-bidang-berimpit.gif)
 
-b. Dua Bidang saling Sejajar, jika tidak ditemukan satupun titik persekutuan
+ b. Dua Bidang saling Sejajar, jika tidak ditemukan satupun titik persekutuan
 
-![](http://www.meetmath.com/media/posts/52/NEW-bidang-sejajar.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-bidang-sejajar.gif)
 
-c. Dua Bidang saling Berpotongan, jika terdapat tepat satu garis persekutuan
+ c. Dua Bidang saling Berpotongan, jika terdapat tepat satu garis persekutuan
 
-![](http://www.meetmath.com/media/posts/52/NEW-bidang-berpotongan.gif)
+   ![](http://www.meetmath.com/media/posts/52/NEW-bidang-berpotongan.gif)
+
+
 
 B. Titik, Garis dan Bidang pada Kubus
 
