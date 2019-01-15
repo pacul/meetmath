@@ -66,45 +66,9 @@ Langsung ke contoh dan pembahasan soal data tunggal 1. Diketahui data sebagai be
 
 urutan data:
 
-$x\_1$
+$x\_1$ | $x\_2$ | $x\_3$ | $x\_4$ | $x\_5$ | $x\_6$ | $x\_7$ | $x\_8$ | $x\_9$ | $x\_{10}$
 
-$x\_2$
-
-$x\_3$
-
-$x\_4$
-
-$x\_5$
-
-$x\_6$
-
-$x\_7$
-
-$x\_8$
-
-$x\_9$
-
-$x\_{10}$
-
-3,
-
-4,
-
-4,
-
-5,
-
-6,
-
-7,
-
-8,
-
-8,
-
-9,
-
-10
+3, | 4, | 4, | 5, | 6, | 7, | 8, | 8, | 9, | 10
 
 1.  \\begin{array}{rcl} \\bar x & = & \\frac{3+4+4+5+6+7+8+8+9+10}{10}\\\\ & = & \\frac{64}{10}\\\\ & = & 6,4 \\end{array}
 2.  \\begin{array}{rcl} Mo & = & 4 dan 8\\end{array}
