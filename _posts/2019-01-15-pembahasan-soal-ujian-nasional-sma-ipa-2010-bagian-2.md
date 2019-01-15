@@ -105,7 +105,7 @@ Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 
     
     Jawab :
     
-    \\begin{align\*}\\frac{^{27}log\\;9+^{2}log\\;3.^{\\sqrt{3}}log\\;4}{^{3}log\\;2-^{3}log\\;18} & = & \\frac{^{3^3}log\\;3^2+^{2}log\\;3.^{3^{\\frac 12}}log\\;2^2}{^{3}log\\;(\\frac{2}{18})}\\\\ & = & \\frac{{\\frac 23}(^{3}log\\;3)+{\\frac{2}{\\frac 12}}.^{2}log\\;3.^{3}log\\;2}{^{3}log\\;(\\frac 19)}\\\\ & = & \\frac{\\frac 23+4(^2log\\;2)}{^3log\\;3^{-2}}\\\\ & = & \\frac{\\frac 23 +4}{-2}\\\\ & = & \\frac{\\frac 23+\\frac{12}{3}}{-2}\\\\ & = & \\frac{14}{3}.{(-\\frac 12)}\\\\ & = & {-\\frac{14}{6}}\\end{align\*}
+    \\begin{align\*}\\frac{^{27}log\\;9+^{2}log\\;3.^{\\sqrt{3}}log\\;4}{^{3}log\\;2-^{3}log\\;18} & = & \\frac{^{3^3}log\\;3^2+^{2}log\\;3.^{3^{\\frac 12}}log\\;2^2}{^{3}log\\;(\\frac{2}{18})}\\\\ & = & \\frac{\\frac 23(^{3}log\\;3)+{\\frac{2}{\\frac 12}}.^{2}log\\;3.^{3}log\\;2}{^{3}log\\;(\\frac 19)}\\\\ & = & \\frac{\\frac 23+4(^2log\\;2)}{^3log\\;3^{-2}}\\\\ & = & \\frac{\\frac 23 +4}{-2}\\\\ & = & \\frac{\\frac 23+\\frac{12}{3}}{-2}\\\\ & = & \\frac{14}{3}.{(-\\frac 12)}\\\\ & = & {-\\frac{14}{6}}\\end{align\*}
     
 10. Bentuk sederhana dari $\\large \\frac{(5a^3b^{-2})^4}{(5a^{-4}b^{-5})^{-2}}$ adalah….
     
