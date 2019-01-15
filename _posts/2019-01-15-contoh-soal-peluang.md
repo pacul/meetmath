@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2019-01-15 07:54:31 +0700'
 categories:
