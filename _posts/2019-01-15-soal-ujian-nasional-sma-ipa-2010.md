@@ -141,6 +141,7 @@ Berlatihlah untuk mengerjakan soal ini sendiri terlebih dahulu, jika mengalami k
    D. $5^6ab^{-1}$
     
    E. $5^6a^9b^{-1}$
+  
 11.  Bentuk sederhana dari $\\Large\\frac{6(3+\\sqrt5)(3-\\sqrt5)}{2+\\sqrt6}$ = …
     
    A. $24+12\\sqrt6$
