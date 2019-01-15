@@ -8,7 +8,7 @@ tags: Soal
 permalink: pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-1.html
 title: Pembahasan Soal Ujian Nasional SPA IPA 2010 Bag.1
 ---
-Berikut ini adalah pembahasan dari [Soal Ujian Nasional Matematika SMA IPA tahun 2010](../../../../../13874-pembahasansoal-soal-ujian-nasional-sma-ipa-2010.html), satu paket soal UN yang akan kita bahas dibagi dalam beberapa posting supaya lebih fokus dalam belajar, yaaa
+Berikut ini adalah pembahasan dari [Soal Ujian Nasional Matematika SMA IPA tahun 2010]({{site.baseurl}}/soal-ujian-nasional-sma-ipa-2010.html), satu paket soal UN yang akan kita bahas dibagi dalam beberapa posting supaya lebih fokus dalam belajar, yaaa
 
 oh ya, dalam pembahasan ini terdapat juga beberapa rumus cepat menghadapi model soal-soal yang sering keluar di ujian nasional, namun harap selalu diingat prinsip dasar materinya sehingga tidak hanya semata-mata mengandalkan rumus praktis tanpa tau asal muasal rumus tersebut.
 
