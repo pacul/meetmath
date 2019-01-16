@@ -6,7 +6,7 @@ categories:
   - Logaritma
 tags: Video
 permalink: video-soal-logaritma-1.html
-title: Video Soal Logaritma 1
+title: Soal Logaritma 1
 ---
 Berikut adalah video contoh yang pertama soal tentang logaritma.
 sifat yang dipakai kali ini adalah sifat kebalikan dari bilangan logaritma dan sifat penjumlahan logaritma 
