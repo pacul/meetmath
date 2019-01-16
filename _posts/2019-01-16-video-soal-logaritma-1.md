@@ -10,4 +10,4 @@ title: Video Soal Logaritma 1
 ---
 Berikut adalah video contoh soal Logaritma yang pertama.
 
-[![Video Soal Logaritma 1](https://img.youtube.com/vi/Kq_qDN4mhTw/0.jpg)](https://www.youtube.com/watch?v=Kq_qDN4mhTw)
+[![Video Soal Logaritma 1](https://img.youtube.com/vi/Kq_qDN4mhTw/0.jpg)](https://www.youtube.com/watch?v=Kq_qDN4mhTw){:target="_blank"}
