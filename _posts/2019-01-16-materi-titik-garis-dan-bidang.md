@@ -6,7 +6,7 @@ categories:
   - Geometri
 tags: Materi
 permalink: materi-titik-garis-dan-bidang.html
-title: 'Kedudukan Titik, Garis, dan Bidang'
+title: ''
 ---
 Dalam geometri, Titik disimbolkan dengan noktah dimana titik itu sendiri tidak mempunyai ukuran,tidak mempunyai panjang maupun luas apalagi volume
 
