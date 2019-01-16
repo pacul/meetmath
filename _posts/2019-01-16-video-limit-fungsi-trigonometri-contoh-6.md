@@ -6,7 +6,7 @@ categories:
   - Logaritma
 tags: Video
 permalink: video-limit-fungsi-trigonometri-contoh-6.html
-title: Limit Fungsi Trigonometri - Contoh 6
+title: Video Limit Fungsi Trigonometri - Contoh 6
 ---
 Contoh soal dan Pembahasan yang ke-enam mengenai Limit Fungsi Trigonometri
 rumus yang dipakai adalah rumus trigonometri 1-cos ax
