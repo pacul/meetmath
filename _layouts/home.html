@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Front Page"
+title: Front Page
+published: true
 ---
 
 <!--
@@ -20,6 +21,7 @@ title: "Front Page"
     {% for category in site.categories  %}
       {% assign materi_tags = category[1] | where_exp: 'post', 'post.tags contains "Materi"' | size %}
       {% assign soal_tags = category[1] | where_exp: 'post', 'post.tags contains "Soal"' | size %}
+    {% assign video_tags = category[1] | where_exp: 'post', 'post.tags contains "Video"' | size %}
 
     <div class="portion half">
       <h2>{{ category[0] }}</h2>
@@ -45,6 +47,21 @@ title: "Front Page"
       {% for post in category[1]  %}
           {% for tag in post.tags %}
           {% if tag == "Soal" %}
+          <li class="article-title">
+            <a class="article-link " href="{{ site.baseurl }}{{ post.url }}" title="Permalink to {{ post.title|striptags }}">{{ post.title }}</a>
+          </li>
+          {% endif %}
+          {% endfor %}
+      {% endfor %}
+        </ul>
+      {% endif %}
+      
+      {% if video_tags > 0 %}
+      <h3>Video :</h3>
+        <ul>
+      {% for post in category[1]  %}
+          {% for tag in post.tags %}
+          {% if tag == "Video" %}
           <li class="article-title">
             <a class="article-link " href="{{ site.baseurl }}{{ post.url }}" title="Permalink to {{ post.title|striptags }}">{{ post.title }}</a>
           </li>
