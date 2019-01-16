@@ -43,7 +43,8 @@ B. Bagian-bagian dalam sebuah KUBUS
 
 4\. Bidang Sisi Kubus = 6 buah
 
-![](http://www.meetmath.com/media/posts/58/bidang-sisi.gif)
+![bidang-sisi.gif]({{site.baseurl}}/media/bidang-sisi.gif)
+
 
 *   Panjang rusuk kubus = r cm
 *   Maka Luas Bidang sisi Kubus = (r x r) = $r^2$
