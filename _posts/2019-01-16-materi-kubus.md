@@ -12,20 +12,22 @@ title: Kubus
 
 A. JARING-JARING KUBUS
 
-![](http://www.meetmath.com/media/posts/58/jaring-kubus.gif)
+![]({{site.baseurl}}/media/jaring-kubus.gif)
+
 
 B. Bagian-bagian dalam sebuah KUBUS
 
 1\. Rusuk Kubus = 12 buah
 
-![](http://www.meetmath.com/media/posts/58/rusuk.gif)
+![rusuk.gif]({{site.baseurl}}/media/rusuk.gif)
+
 
 *   Panjang Rusuk Kubus = _r_ cm
 *   Sehingga Panjang AB = BC = CD=DA=EF=FG=GH=EH=AE=BF=CG=DH = _r_ cm
 
 2\. Diagonal Sisi Kubus = 12 buah
 
-![](http://www.meetmath.com/media/posts/58/diagonal-sisi.gif)
+![]({{site.baseurl}}/media/diagonal-sisi.gif)
 
 *   Panjang rusuk Kubus = _r_ cm
 *   Maka panjang diagonal sisinya = $r\\sqrt\{2}$ cm
@@ -33,7 +35,7 @@ B. Bagian-bagian dalam sebuah KUBUS
 
 3\. Diagonal Ruang Kubus = 4 buah
 
-![](http://www.meetmath.com/media/posts/58/diag-sisi.gif)
+![]({{site.baseurl}}/media/diagonal-sisi-2.gif)
 
 *   Panjang Rusuk kubus = _r_ cm
 *   Maka panjang Diagonal Ruang Kubus = $r\\sqrt\{3}$
