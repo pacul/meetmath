@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2019-01-17 14:56:31 +0700'
 categories:
-  - Logaritma
+  - Limit
 tags: Video
 permalink: video-limit-fungsi-trigonometri-contoh-6.html
 title: Video Limit Fungsi Trigonometri - Contoh 6
