@@ -4,7 +4,7 @@ title: Limit Fungsi Trigonometri - Contoh 5
 layout: post
 date: '2019-01-17 14:56:31 +0700'
 categories:
-  - Trigonometri
+  - Limit
 tags: Video
 permalink: video-limit-fungsi-trigonometri-contoh-5.html
 ---
