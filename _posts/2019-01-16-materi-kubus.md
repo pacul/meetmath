@@ -52,7 +52,7 @@ B. Bagian-bagian dalam sebuah KUBUS
 
 5\. Bidang Diagonal Kubus = 6 buah
 
-![](http://www.meetmath.com/media/posts/58/bidang-diagonal.gif)
+![]({{site.baseurl}}/media/bidang-diagonal.gif)
 
 *   Panjang rusuk kubus = _r_ cm
 *   Panjang diagonal sisi kubus = $r\\sqrt\{2}$
