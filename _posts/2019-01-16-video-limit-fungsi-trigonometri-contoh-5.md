@@ -1,6 +1,6 @@
 ---
 published: true
-title: Limit Fungsi Trigonometri - Contoh 5
+title: Video Limit Fungsi Trigonometri - Contoh 5
 layout: post
 date: '2019-01-17 14:56:31 +0700'
 categories:
