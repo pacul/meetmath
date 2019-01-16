@@ -10,7 +10,7 @@ title: Contoh Soal Turunan
 ---
 Berikut ini adalah jawaban dari pertanyaan-pertanyaan yang masuk
 
-Semoga membantu….
+Semoga membantu
 
 Tanya :
 
