@@ -10,6 +10,7 @@ title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 2
 ---
 Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 1]({{site.baseurl}}/pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-1.html)
 
+{:start="6"}
 6.  Salah satu persamaan garis singgung lingkaran $(x-4)^2+(y-5)^2=8$ yang sejajar dengan $y-7x+5=0$ adalah….
     
     A. $y-7x-13=0$
