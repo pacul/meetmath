@@ -12,6 +12,7 @@ Berikut adalah kelanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 2]
 
 Ingatlah selalu untuk belajar materi dasarnya yah, mari kita berlatih lagi.
 
+{:start="11"}
 11. Bentuk sederhana dari $\\frac{6(3+\\sqrt5)(3-\\sqrt5)}{2+\\sqrt6} = $…
     
     A. $24+12\\sqrt6$
