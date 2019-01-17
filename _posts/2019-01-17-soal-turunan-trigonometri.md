@@ -12,6 +12,7 @@ Soal dan pembahasan dibawah merupakan lanjutan dari soal turunan sebelumnya, nam
 
 Mari kita berlatih lagi dari contoh soal dan pembahasan turunan trigonometri berikut…cekidot !!!
 
+{:start="11"}
 11.  Turunan pertama dari $f(x) = 7 cos (5 – 3x)$ adalah $f ‘ (x) $= …..
     
     A. $35 sin (5 – 3x)$
