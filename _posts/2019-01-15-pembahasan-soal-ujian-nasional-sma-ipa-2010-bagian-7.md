@@ -12,6 +12,7 @@ Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 
 
 Buatlah rangkuman rumus-rumus dari tiap materi, begitu berlatih dengan soal-soal, pergunakan untuk mengingat dan mengerjakan dengan baik,ok……
 
+{:start="31"}
 31. Nilai \\lim\_{x\\to2}\\left ( \\frac{2}{x-2}-\\frac{8}{x^{2}-4} \\right ) = adalah
     
     A. $\\frac{1}{4} $
