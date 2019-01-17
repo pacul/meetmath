@@ -10,7 +10,7 @@ title: Soal Turunan Aljabar 2
 ---
 Setelah mencoba soal turunan bagian pertama, mari kita coba latihan soal turunan dan pembahasan soal turunan yang lain yuk ……..jangan lupa rumus-rumus turunan kemarin yah !!!
 
-6.\  Jika $g(x)=\\left ( 5-3x \\right )^{10}$ maka $g ‘(2) = $ ….
+6.  Jika $g(x)=\\left ( 5-3x \\right )^{10}$ maka $g ‘(2) = $ ….
     
     A. -30
     
@@ -30,7 +30,7 @@ Setelah mencoba soal turunan bagian pertama, mari kita coba latihan soal turunan
         
         \\begin{align\*}g'(x) & = & {\\color{Red} n.u^{n-1}.u'}\\\\ & = & 10.(5-3x)^{10-1}.(-3)\\\\ & = & (-30)(5-3x)^9\\\\g'(2) & = & (-30)(5-3.2)^9\\\\ & = & (-30)(-1)^9\\\\ & = & 30 \\end{align\*}
         
-7.\  Jika $f(x)=x^3-\\frac{x}{x^2-1}$ maka $f ‘(x) = $…
+7.  Jika $f(x)=x^3-\\frac{x}{x^2-1}$ maka $f ‘(x) = $…
     
     A. $3x^2+\\frac{x^2+1}{(x^2-1)^2}$
     
@@ -54,7 +54,7 @@ Setelah mencoba soal turunan bagian pertama, mari kita coba latihan soal turunan
         
         \\begin{align\*}f(x) & = & x^3-\\frac{x}{x^2-1}\\\\f'(x) & = & 3x^2-\\left \[ \\frac{u'.v-v'.u}{v^2} \\right \]\\\\ & = & 3x^2-\\left \[ \\frac{1.(x^2-1)-2x(x)}{(x^2-1)^2} \\right \]\\\\ & = & 3x^2-\\left \[ \\frac{x^2-1-2x^2}{(x^2-1)^2} \\right \]\\\\ & = & 3x^2-\\left \[ \\frac{-x^2-1}{(x^2-1)^2} \\right \]\\\\ & = & 3x^2+\\frac{x^2+1}{(x^2-1)^2} \\end{align\*}
         
-8.\  Turunan pertama dari $\\frac{(x+2)(x+1)}{(x+3)}$ adalah …..
+8.  Turunan pertama dari $\\frac{(x+2)(x+1)}{(x+3)}$ adalah …..
     
     A. ${y}'=\\frac{x^2+9x+7}{x^2+9}$
     
@@ -78,7 +78,7 @@ Setelah mencoba soal turunan bagian pertama, mari kita coba latihan soal turunan
         
         \\begin{align\*}y' & = & \\frac{u'.v-v'u}{v^2}\\\\ & = & \\frac{(2x+3)(x+3)-(1)(x^2+3x+2)}{(x+3)^2}\\\\ & = & \\frac{2x^2+9x+9-x^2-3x-2}{(x+3)^2}\\\\ & = & \\frac{x^2+6x+7}{x^2+6x+9} \\end{align\*}
         
-9.\  Diketahui $y=\\sqrt{3-4x}$ maka $ \\frac{\\partial y}{\\partial x}=$ ….
+9.  Diketahui $y=\\sqrt{3-4x}$ maka $ \\frac{\\partial y}{\\partial x}=$ ….
     
     A. $\\frac{1}{2\\sqrt{3-4x}}$
     
@@ -98,7 +98,7 @@ Setelah mencoba soal turunan bagian pertama, mari kita coba latihan soal turunan
         
         \\begin{align\*}y' & = & n.u^{n-1}.u'\\\\ & = & \\frac 12.(3-4x)^{\\frac{1}{2}-1}.(-4)\\\\ & = & (-2)(3-4x)^{-\\frac 12}\\\\ & = & \\frac{-2}{\\sqrt{3-4x}}\\end{align\*}
         
-10.\ Jika $f(3+2x)=4-2x+x^2$ maka $f ‘ (1)$ = …
+10. Jika $f(3+2x)=4-2x+x^2$ maka $f ‘ (1)$ = …
     
     A. -4
     
