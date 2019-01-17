@@ -10,6 +10,7 @@ title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 5
 ---
 ini dia lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 4]({{site.baseurl}}/pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-4.html)
 
+{:start="21"}
 21. Diketahui kubus $ABCD.EFGH$. Nilai kosinus sudut antara $CH$ dan bidang $BDHF$ adalah…
     
     A. $\\frac 12$
