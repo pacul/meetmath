@@ -6,7 +6,7 @@ categories:
   - Limit
 tags: Video
 permalink: video-limit-fungsi-trigonometri-contoh-3.html
-title: Limit Fungsi Trigonometri - Contoh 3
+title: Video Limit Fungsi Trigonometri - Contoh 3
 ---
 Video ini berisi Contoh soal dan Pembahasan yang ketiga mengenai Limit Fungsi Trigonometri
 rumus trigonometri yang dipakai 1- cos ax
