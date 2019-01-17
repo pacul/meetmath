@@ -12,6 +12,7 @@ Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 
 
 Yuk kita kembali membahas soal ujian nasional matematika tahun 2010 dijamin pasti menarik,neh….
 
+{:start="26"}
 26. Himpunan penyelesaian persamaan $cos\\;2x-sin\\;x=0$ untuk $0\\leq x\\leq 2\\pi $ adalah….
     
     A. ${ \\frac{\\pi}{2},\\frac{\\pi}{3},\\frac{\\pi}{6} }$
