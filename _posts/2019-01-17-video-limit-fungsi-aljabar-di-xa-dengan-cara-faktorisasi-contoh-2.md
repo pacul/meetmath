@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Limit Fungsi Aljabar di x=a Dengan Cara Faktorisasi - Contoh 2
 layout: post
 date: '2019-01-17 14:56:31 +0700'
