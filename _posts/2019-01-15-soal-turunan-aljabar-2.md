@@ -10,6 +10,7 @@ title: Soal Turunan Aljabar 2
 ---
 Setelah mencoba soal turunan bagian pertama, mari kita coba latihan soal turunan dan pembahasan soal turunan yang lain yuk ……..jangan lupa rumus-rumus turunan kemarin yah !!!
 
+{:start="6"}
 6.  Jika $g(x)=\\left ( 5-3x \\right )^{10}$ maka $g ‘(2) = $ ….
     
     A. -30
