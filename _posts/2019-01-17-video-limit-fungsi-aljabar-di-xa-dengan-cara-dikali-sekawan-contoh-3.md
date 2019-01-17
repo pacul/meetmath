@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Video Limit Fungsi Aljabar di x=a Dengan Cara Dikali Sekawan - Contoh 3
 layout: post
 date: '2019-01-17 14:56:31 +0700'
