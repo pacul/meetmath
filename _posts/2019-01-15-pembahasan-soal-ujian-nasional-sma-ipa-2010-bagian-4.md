@@ -10,6 +10,7 @@ title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 4
 ---
 ini dia lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 3]({{site.baseurl}}/pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-3.html) ayo kita simak baik-baik….
 
+{:start="16"}
 16. Bayangan kurva $y=x^2-x+3$ yang ditransformasikan oleh matriks 
 $\\left\[\\begin{array}{cc}0 & -1\\\\1 & 0\\end{array}\\right\]$ 
 dilanjutkan oleh matriks 
