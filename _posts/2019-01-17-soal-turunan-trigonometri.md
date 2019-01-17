@@ -13,7 +13,7 @@ Soal dan pembahasan dibawah merupakan lanjutan dari soal turunan sebelumnya, nam
 Mari kita berlatih lagi dari contoh soal dan pembahasan turunan trigonometri berikut…cekidot !!!
 
 {:start="11"}
-11.  Turunan pertama dari $f(x) = 7 cos (5 – 3x)$ adalah $f ‘ (x) $= …..
+11. Turunan pertama dari $f(x) = 7 cos (5 – 3x)$ adalah $f ‘ (x) $= …..
     
     A. $35 sin (5 – 3x)$
     
@@ -33,7 +33,7 @@ Mari kita berlatih lagi dari contoh soal dan pembahasan turunan trigonometri ber
         
         \\begin{align\*}f(x) & = & 7 cos (5 - 3x)\\\\f'(x) & = & -7.(-3).sin(5-3x)\\\\ & = & 21\\;sin(5-3x) \\end{align\*}
         
-12.  Jika $f ‘(x)$ adalah turunan dari $f(x)$ dan jika $f(x) = ( 3x – 2 ) sin (2x + 1)$ maka $f ‘ (x)$ adalah …
+12. Jika $f ‘(x)$ adalah turunan dari $f(x)$ dan jika $f(x) = ( 3x – 2 ) sin (2x + 1)$ maka $f ‘ (x)$ adalah …
     
     A. $3 cos ( 2x + 1 )$
     
@@ -55,7 +55,7 @@ Mari kita berlatih lagi dari contoh soal dan pembahasan turunan trigonometri ber
         
         \\begin{array}{rcl}f'(x) & = & u'.v+v'.u\\\\ & = & 3.{\\color{DarkGreen} sin(2x+1)}+2cos(2x+1).({\\color{Red} 3x-2})\\\\ & = & 3\\;sin(2x+1)+(6x-4)\\;cos(2x+1) \\end{array}
         
-13.  Turunan pertama fungsi $f (x) = 5 sin x cos x$ adalah $f ‘ (x) $= …
+13. Turunan pertama fungsi $f (x) = 5 sin x cos x$ adalah $f ‘ (x) $= …
     
     A. $5\\;sin\\; 2x$
     
@@ -93,7 +93,7 @@ Mari kita berlatih lagi dari contoh soal dan pembahasan turunan trigonometri ber
     
     Dengan hasil yang sama namun lebih cepat dalam pengerjaannya…silahkan pilih cara yang lebih disukai…
     
-14.  Jika $f(x)=sin^2 \\left ( 2x+\\frac{\\pi}{6} \\right )$ , maka nilai dari $f'(0)$ = …..
+14. Jika $f(x)=sin^2 \\left ( 2x+\\frac{\\pi}{6} \\right )$ , maka nilai dari $f'(0)$ = …..
     
     A. $2\\sqrt{3}$
     
@@ -117,7 +117,7 @@ Mari kita berlatih lagi dari contoh soal dan pembahasan turunan trigonometri ber
         
         \\begin{align\*}f'(x) & = & 2.u.u'\\\\ & = & 2.{\\color{Red} sin\\left ( 2x+\\frac{\\pi}{6} \\right )}.2cos\\left ( 2x+\\frac{\\pi}{6} \\right )\\\\f'(0) & = & 4.sin\\left ( 2.0+\\frac{\\pi}{6} \\right ).cos\\left ( 2.0+\\frac{\\pi}{6} \\right )\\\\ & = & 4.sin\\left ( \\frac{\\pi}{6} \\right ).cos\\left ( \\frac{\\pi}{6} \\right )\\\\ & = & 4.\\frac 12.\\frac 12\\sqrt3\\\\ & = & \\sqrt3\\end{align\*}
         
-15.  Turunan pertama dari $f(x)=sin^4(3-2x)$ adalah $f'(x)$ = ……
+15. Turunan pertama dari $f(x)=sin^4(3-2x)$ adalah $f'(x)$ = ……
     
     A. $- 8\\;sin^3(3-2x)\\;cos(6-4x)$
     
