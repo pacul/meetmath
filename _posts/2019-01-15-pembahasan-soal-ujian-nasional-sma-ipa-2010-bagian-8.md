@@ -10,6 +10,7 @@ permalink: pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-8.html
 ---
 Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 7]({{site.baseurl}}/pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-7.html)
 
+{:start="36"}
 36. Nilai dari $\\int \\left ( 3-6\\;sin^{2}x \\right )dx = $….
     
     A. $\\frac{3}{2}sin^{2}\\;2x+C $
