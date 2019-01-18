@@ -4,8 +4,8 @@ layout: post
 date: '2019-01-15 16:10:31 +0700'
 categories:
   - Statistika
-tags: Soal
-permalink: soal-rataan-gabungan.html
+tags: Materi
+permalink: materi-rataan-gabungan.html
 title: Rataan Gabungan
 ---
 Seringkali terdapat soal pada data tunggal yang berkaitan dengan rataan gabungan,dimana terdapat beberapa kelompok yang memiliki rataan masing-masing dengan banyaknya data masing-masing kelompok pula, kita diminta untuk menentukan rataan gabungan dari seluruh kelompok tersebut.
