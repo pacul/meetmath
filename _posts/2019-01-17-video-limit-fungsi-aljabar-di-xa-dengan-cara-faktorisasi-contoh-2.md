@@ -2,7 +2,7 @@
 published: true
 title: Video Limit Fungsi Aljabar di x=a Dengan Cara Faktorisasi - Contoh 2
 layout: post
-date: '2019-01-17 14:56:31 +0700'
+date: '2019-01-17 14:44:11 +0700'
 categories:
   - Limit
 tags: Video
