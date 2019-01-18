@@ -51,33 +51,9 @@ Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 
     
     diketahui 4 pemuda dan 3 pemudi akan duduk berjajar dengan syarat selang-seling kita dapat menghitung banyaknya cara duduk dengan filling slot dan digambarkan duduk berderet dalam 7 bangku sebagai berikut
     
-    Pa
-    
-    Pi
-    
-    Pa
-    
-    Pi
-    
-    Pa
-    
-    Pi
-    
-    Pa
-    
-    4
-    
-    3
-    
-    3
-    
-    2
-    
-    2
-    
-    1
-    
-    1
+    Pa | Pi |  Pa | Pi | Pa | Pi | Pa
+    --- | --- | --- | --- | --- | --- 
+    4 | 3 | 3 | 2 | 2 | 1 | 1
     
     banyaknya cara duduk = 4 . 3 . 2. 1 x **3 . 2 . 1** = 144 cara
     
@@ -119,29 +95,13 @@ Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 
     
 40. Perhatikan tabel data berikut :
     
-    Data
-    
-    Frekuensi
-    
-    10 – 19
-    
-    2
-    
-    20 – 29
-    
-    8
-    
-    30 – 39
-    
-    12
-    
-    40 – 49
-    
-    7
-    
-    50 – 59
-    
-    3
+    Data | Frekuensi    
+    ---- | ----
+    10 – 19 | 2    
+    20 – 29 | 8    
+    30 – 39 | 12    
+    40 – 49 |  7    
+    50 – 59 | 3
     
     Median dari data pada tabel adalah …
     
@@ -159,40 +119,12 @@ Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 
     
     ingat rumus median pada statistika data berkelompok $\\Large {\\color{red} Me=T\_B+\\frac{\\frac{n}{2}-f\_k}{f\_{Me}}.\\;i}$
     
-    Data
-    
-    Frekuensi
-    
-    fk
-    
-    10 – 19
-    
-    2
-    
-    2
-    
-    20 – 29
-    
-    8
-    
-    10
-    
-    30 – 39
-    
-    12
-    
-    22
-    
-    40 – 49
-    
-    7
-    
-    29
-    
-    50 – 59
-    
-    3
-    
-    32
+    Data | Frekuensi | fk 
+    ---- | ---- | ------   
+    10 – 19 | 2 | 2    
+    20 – 29 | 8 | 10    
+    30 – 39 | 12 | 22    
+    40 – 49 | 7 | 29    
+    50 – 59 | 3 | 32
     
     kita tentukan kelas median dulu $\\frac{n}{2} = \\frac{32}{2}\\;=\\;16$ data ke-16 terletak di kelas ke-3

@@ -12,16 +12,12 @@ Materi statistika 2 merupakan kelanjutan dari [Statistika Bagian 1]({{site.baseu
 
 Diketahui data sebagai berikut :
 
-Nomor | fi
-
+Nomor   | fi
+------- | ---
 10 – 14 | 3
-
 15 – 19 | 6
-
 20 – 24 | 9
-
 25 – 29 | 8
-
 30 – 34 | 4
 
 Tentukanlah rataan, median, modus, kuartil pertama ($Q\_1$) dan desil ke delapan ($D\_8$) !
@@ -31,35 +27,25 @@ jawab:
 1.  Untuk mencari rataan kita buat kolom bantuan $x\_i$ yaitu nilai tengah dan $f\_i.x\_i$ sebagai berikut :
     
     Nomor | $fi$ | $xi$ | $fi.xi$
-    
-    10 – 14 | 3 | 12 | 36
-    
-    15 – 19 | 6 | 17 | 102
-    
-    20 – 24 | 9 | 22 | 198
-    
-    25 – 29 | 8 | 27 | 216
-    
-    30 – 34 | 4 | 32 | 128
-    
+    ----- | ---- | ---- | -------
+    10 – 14 | 3 | 12 | 36    
+    15 – 19 | 6 | 17 | 102    
+    20 – 24 | 9 | 22 | 198    
+    25 – 29 | 8 | 27 | 216    
+    30 – 34 | 4 | 32 | 128    
     $\\sum$ | 30 |  | 680
     
     \\begin{array}{rcl}\\bar{x} & = & \\frac{\\sum f\_{i}.x\_{i}}{\\sum f\_i}\\\\ & = & \\frac{680}{30}\\\\ & = & 22,67\\end{array}
     
 2.  untuk mencari median kita buat kolom tambahan $f\_k$ yaitu frekuensi kumulatif sebagai berikut :
     
-    Nomor | $fi$ | $fk$
-    
-    10 – 14 | 3 | 3
-    
-    15 – 19 | 6 | 9
-    
-    20 – 24 | 9 | 18
-    
-    25 – 29 | 8 | 26
-    
-    30 – 34 | 4 | 30
-    
+    Nomor | $fi$ | $fk$    
+    ----- | ---- | ---- 
+    10 – 14 | 3 | 3    
+    15 – 19 | 6 | 9    
+    20 – 24 | 9 | 18    
+    25 – 29 | 8 | 26    
+    30 – 34 | 4 | 30    
     $\\sum$ | 30 | 
     
     kita tentukan kelas median terlebih dulu, $\\frac n2=\\frac{30}{2}=15$ (lihat $f\_{k}$-nya) data ke $15$ terletak di kelas ke $3$ dimana:
@@ -78,18 +64,13 @@ jawab:
     
 3.  untuk mencari modus, tidak dibutuhkan kolom tambahan sehingga perhatikan tabel soal
     
-    Nomor | $fi$
-    
-    10 – 14 | 3
-    
-    15 – 19 | 6
-    
-    20 – 24 | 9
-    
-    25 – 29 | 8
-    
-    30 – 34 | 4
-    
+    Nomor | $fi$   
+    ----- | ---- 
+    10 – 14 | 3    
+    15 – 19 | 6    
+    20 – 24 | 9    
+    25 – 29 | 8    
+    30 – 34 | 4    
     $\\sum$ | 30
     
     kita tentukan kelas modus terlebih dulu, kelas dengan frekuensi terbesar yaitu kelas ke $3$
@@ -108,18 +89,13 @@ jawab:
     
 4.  untuk mencari kuartil pertama kita pakai tabel untuk mencari median
     
-    Nomor | $fi$ | $fk$
-    
-    10 – 14 | 3 | 3
-    
-    15 – 19 | 6 | 9
-    
-    20 – 24 | 9 | 18
-    
-    25 – 29 | 8 | 26
-    
-    30 – 34 | 4 | 30
-    
+    Nomor | $fi$ | $fk$  
+    ----- | ---- | ----   
+    10 – 14 | 3 | 3    
+    15 – 19 | 6 | 9    
+    20 – 24 | 9 | 18    
+    25 – 29 | 8 | 26    
+    30 – 34 | 4 | 30    
     $\\sum$ | 30 | 
     
     kita tentukan kelas $Q\_1$ terlebih dulu, $\\frac {i.n}{4}=\\frac{1.30}{4}=7,5$ , (lihat $f\_{k}$ -nya) data ke 7,5 terletak di kelas ke $2$ dimana:
@@ -138,45 +114,14 @@ jawab:
     
 5.  untuk mencari desil ke $8$ kita pakai tabel untuk mencari median
     
-    Nomor
-    
-    $fi$
-    
-    $fk$
-    
-    10 – 14
-    
-    3
-    
-    3
-    
-    15 – 19
-    
-    6
-    
-    9
-    
-    20 – 24
-    
-    9
-    
-    18
-    
-    25 – 29
-    
-    8
-    
-    26
-    
-    30 – 34
-    
-    4
-    
-    30
-    
-    $\\sum$
-    
-    30
+    Nomor | $fi$ | $fk$  
+    ----- | ---- | ----   
+    10 – 14 | 3 | 3    
+    15 – 19 | 6 | 9    
+    20 – 24 | 9 | 18    
+    25 – 29 | 8 | 26    
+    30 – 34 | 4 | 30    
+    $\\sum$ | 30
     
     kita tentukan kelas $D\_8$ terlebih dulu,$ \\frac{i.n}{10}=\\frac{8.30}{10}=24$ ,(lihat $f\_{k}$-nya) data ke $24$ terletak di kelas ke $4$ dimana:
     

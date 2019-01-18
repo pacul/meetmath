@@ -207,7 +207,7 @@ Berlatihlah untuk mengerjakan soal ini sendiri terlebih dahulu, jika mengalami k
     
     E.$y=-\\frac 12\\;log\\;x$
     
-16. Bayangan kurva $y=x^2-x+3$ yang ditransformasikan oleh matriks \\left\[\\begin{array}{cc}0 & -1\\\\1 & 0\\end{array}\\right\] dilanjutkan oleh matriks \\left\[\\begin{array}{cc}-1 & 0\\\\0 & 1\\end{array}\\right\] adalah…
+16. Bayangan kurva $y=x^2-x+3$ yang ditransformasikan oleh matriks $\\left\[\\begin{array}{cc}0 & -1\\\\1 & 0\\end{array}\\right\] dilanjutkan oleh matriks \\left\[\\begin{array}{cc}-1 & 0\\\\0 & 1\\end{array}\\right\]$ adalah…
     
     A. $y=x^2+x+3$
     
@@ -318,7 +318,7 @@ Berlatihlah untuk mengerjakan soal ini sendiri terlebih dahulu, jika mengalami k
     
     E. $\\frac 56$
     
-25. Hasil dari $$\\frac{cos(45-a)^{0}+cos(45+a)^{0}}{sin(45+a)^{0}+sin(45-a)^{0}}= $…
+25. Hasil dari $\\frac{cos(45-a)^{0}+cos(45+a)^{0}}{sin(45+a)^{0}+sin(45-a)^{0}}= $…
     
     A. $-\\sqrt2$
     
@@ -501,15 +501,11 @@ Berlatihlah untuk mengerjakan soal ini sendiri terlebih dahulu, jika mengalami k
 40. Perhatikan tabel data berikut
     
     Data | Frekuensi
-    
-    10 – 19 | 2
-    
-    20 – 29 | 8
-    
-    30 – 39 | 12
-    
-    40 – 49 | 7
-    
+    ----- | ---- 
+    10 – 19 | 2    
+    20 – 29 | 8    
+    30 – 39 | 12    
+    40 – 49 | 7    
     50 – 59 | 3
     
     Median dari data pada tabel adalah …

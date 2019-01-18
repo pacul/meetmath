@@ -28,7 +28,7 @@ ini dia lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 4]({{site.b
     *   Proyeksi CH terhadap bidang BDHF adalah garis HO (titik $O$ ditengah $AC$)
     *   Sudut yang terbentuk antara garis $CH$ dengan bidang $BDHF$ adalah
         
-        ![](http://www.meetmath.com/media/posts/19/responsive/kubus-xs.jpg)
+        ![]({{site.baseurl}}/media/kubus-xs.jpg)
     *   Perhatikan $\\bigtriangleup ACH$ adalah segitiga sama sisi, maka semua sudutnya $600^0$
         
         \\begin{align\*}\\angle CHO & = & \\frac 12\\angle AHC\\\\ & = & \\frac 12.60^{\\circ}\\\\\\angle CHO & = & 30^{\\circ}\\\\Cos\\angle CHO & = & Cos\\;30^{\\circ}\\\\ & = & \\frac{1}{2}\\sqrt{3}\\end{align\*}
@@ -57,7 +57,8 @@ ini dia lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 4]({{site.b
         
         $CF = 6\\sqrt{2}$ cm
         
-        ![](http://www.meetmath.com/media/posts/19/responsive/kubus2-xs.jpg)
+
+        ![]({{site.baseurl}}/media/kubus2-xs.jpg)
     *   Jarak titik $A$ ke garis $CF$ kita tarik garis tegak lurus dengan garis $CF$ yang memotong titik A kita akan mendapatkan garis $AP$ ($P $ ditengah $CF$)
         
         \\begin{align\*}AP & = & \\sqrt{(6\\sqrt{2})^{2}-(3\\sqrt{2})^{2}}\\\\ & = & \\sqrt{72-18}\\\\ & = & \\sqrt{54}\\\\ & = & 3\\sqrt{6} \\end{align\*}

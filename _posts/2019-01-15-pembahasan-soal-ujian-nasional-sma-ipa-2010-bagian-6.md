@@ -42,7 +42,7 @@ Yuk kita kembali membahas soal ujian nasional matematika tahun 2010 dijamin past
     
     \\begin{align\*}a=\\frac{1}{2} & \\vee & a=-1\\\\sin\\;x=\\frac{1}{2} & \\vee & sin\\;x=-1\\\\x=\\frac{\\pi}{6},\\frac{5\\pi}{6} & \\vee & x=\\frac{3\\pi}{2} \\end{align\*}
     
-    sehingga HP : \\left \\{\\frac{\\pi}{6},\\frac{5\\pi}{6},\\frac{3\\pi}{2} \\right \\}
+    sehingga HP : $\\left \\{\\frac{\\pi}{6},\\frac{5\\pi}{6},\\frac{3\\pi}{2} \\right \\}$
     
 27. Diketahui prisma segitiga tegak ABC.DEF. Panjang rusuk-rusuk alas AB = 5 cm, BC = 7 cm, dan AC = 8 cm. Panjang rusuk tegak 10 cm, maka volume prisma tersebut adalah…
     
