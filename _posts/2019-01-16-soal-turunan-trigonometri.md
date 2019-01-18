@@ -5,7 +5,7 @@ date: '2019-01-15 16:03:31 +0700'
 categories:
   - Turunan
 tags: Soal
-permalink: soal-turunan-trigonometri.html
+permalink: contoh-soal-turunan-trigonometri.html
 title: Contoh Soal Turunan Trigonometri
 ---
 Contoh soal kali ini membahas tentang turunan trigonometri
