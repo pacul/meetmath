@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2019-01-15 16:00:31 +0700'
+date: '2019-01-15 16:10:31 +0700'
 categories:
   - Turunan
 tags: Soal
