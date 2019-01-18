@@ -27,6 +27,7 @@ permalink: /:tags-:title:output_ext
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 future: true
 google_analytics: ""
 
