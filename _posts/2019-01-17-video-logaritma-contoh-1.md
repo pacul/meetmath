@@ -2,7 +2,7 @@
 published: true
 title: Video Logaritma - Contoh 1
 layout: post
-date: '2019-01-17 14:56:31 +0700'
+date: '2019-01-17 14:56:21 +0700'
 categories:
   - Logaritma
 tags: Video
