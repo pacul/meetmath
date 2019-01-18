@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2019-01-14 16:19:31 +0700'
+date: '2019-01-14 16:19:01 +0700'
 categories:
   - Pangkat
 tags: Materi
