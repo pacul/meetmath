@@ -192,7 +192,8 @@ Berlatihlah untuk mengerjakan soal ini sendiri terlebih dahulu, jika mengalami k
     
 15. Perhatikan gambar grafik fungsi eksponen!
     
-    ![](http://www.meetmath.com/media/posts/23/responsive/Kurva1-xs.jpg)
+    ![Kurva1-xs.jpg]({{site.baseurl}}/media/Kurva1-xs.jpg)
+
     
     Persamaan grafik fungsi invers pada gambar adalah….
     
