@@ -113,7 +113,7 @@ Ingatlah selalu untuk belajar materi dasarnya yah, mari kita berlatih lagi.
     
 15. Perhatikan gambar grafik fungsi eksponen!
     
-    ![](http://www.meetmath.com/media/posts/17/responsive/Kurva1-xs.jpg)
+    ![Kurva1-xs.jpg]({{site.baseurl}}/media/Kurva1-xs.jpg)
     
     Persamaan grafik fungsi invers pada gambar adalah….
     
