@@ -45,7 +45,8 @@ Nah materi dasarnya di atas jangan sampai terlupa yah, sekarang kita masuk mater
 
 Perhatikan Gambar Grafik fungsi ${\\color{DarkGreen} y=f(x)}$
 
-![](http://www.meetmath.com/media/posts/32/responsive/pgsTurunan-xs.jpg)
+![persamaan-garis-singgung-kurva.jpg]({{site.baseurl}}/media/persamaan-garis-singgung-kurva.jpg)
+
 
 Kemiringan (gradien) garis singgung kurva $y = f(x)$ di titik $A(a, f(a))$ adalah
 
