@@ -2,7 +2,7 @@
 published: true
 title: Video Limit Fungsi Aljabar di x=a Dengan Cara Dikali Sekawan - Contoh 3
 layout: post
-date: '2019-01-17 13:58:31 +0700'
+date: '2019-01-17 13:57:31 +0700'
 categories:
   - Limit
 tags: Video
