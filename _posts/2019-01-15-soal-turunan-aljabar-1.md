@@ -6,7 +6,7 @@ categories:
   - Turunan
 tags: Soal
 permalink: soal-turunan-aljabar-1.html
-title: Soal Turunan Aljabar 1
+title: Soal 1 - Turunan Aljabar
 ---
 Soal-soal turunan ini diambil dari soal ujian sekolah, Ebtanas, maupun Ujian Nasional.
 
