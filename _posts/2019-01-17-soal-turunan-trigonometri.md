@@ -5,8 +5,8 @@ date: '2019-01-15 16:03:31 +0700'
 categories:
   - Turunan
 tags: Soal
-permalink: soal-turunan-trigonometri.html
-title: Soal Turunan Trigonometri
+permalink: soal-3-turunan-trigonometri.html
+title: ''
 ---
 Soal dan pembahasan dibawah merupakan lanjutan dari soal turunan sebelumnya, namun dikhususkan untuk soal-soal turunan trigonometri. Jangan sampai lupa materi turunan trigonometri pada posting sebelumnya yah.
 
