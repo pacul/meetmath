@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2019-01-15 16:12:01 +0700'
+date: '2019-01-15 16:11:11 +0700'
 categories:
   - Ujian Nasional
 tags: Soal
