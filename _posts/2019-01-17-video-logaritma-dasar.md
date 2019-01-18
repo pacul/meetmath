@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2019-01-17 14:55:31 +0700'
+date: '2019-01-17 14:56:31 +0700'
 categories:
   - Logaritma
 tags: Video
