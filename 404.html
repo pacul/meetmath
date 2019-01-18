@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 <style type="text/css" media="screen">
@@ -29,14 +30,73 @@ layout: default
 
 var url_baru = {
   "/461063-materi-dimensi-tiga-kubus.html": "/materi-dimensi-tiga-kubus.html",
-  "" : "",
+  "/a-kubus.html" : "materi-kubus.html",
+  "/1-titik-garis-dan-bidang.html": "/materi-titik-garis-dan-bidang.html",
+  "/video-logaritma-soal-1.html": "/video-soal-logaritma-1.html",
+  "/video-limit-fungsi-trigonometri-contoh-6.html": "/video-limit-fungsi-
+
+trigonometri-contoh-6.html",
+  "/video-limit-fungsi-trigonometri-contoh-5.html": "/video-limit-fungsi-
+
+trigonometri-contoh-5.html",
+  "/video-limit-fungsi-trigonometri-contoh-4.html": "/video-limit-fungsi-
+
+trigonometri-contoh-4.html",
+  "/video-logaritma-contoh-1.html": "/video-logaritma-contoh-1.html",
+  "/video-logaritma-dasar.html": "/video-logaritma-dasar.html",
+  "/video-limit-fungsi-trigonometri-contoh-3.html": "/video-limit-fungsi-
+
+trigonometri-contoh-3.html",
+  "/video-limit-fungsi-trigonometri-contoh-2.html": "/video-limit-fungsi-
+
+trigonometri-contoh-2.html",
+  "/video-limit-fungsi-trigonometri-contoh-1.html": "/video-limit-fungsi-
+
+trigonometri-contoh-1.html",
+  "/video-limit-fungsi-trigonometri-dasar.html": "/video-limit-fungsi-
+
+trigonometri-dasar.html",
+  "/video-limit-fungsi-aljabar-di-xa-dengan-cara-faktorisasi-contoh-2.html": 
+
+"/video-limit-fungsi-aljabar-di-xa-dengan-cara-faktorisasi-contoh-2.html",
+  "/video-limit-fungsi-aljabar-di-tak-hingga-dengan-cara-faktorisasi.html": 
+
+"/video-limit-fungsi-aljabar-di-tak-hingga-dengan-cara-faktorisasi.html",
+  "/video-limit-fungsi-aljabar-di-xa-dengan-cara-dikali-sekawan-contoh-3.html": 
+
+"/video-limit-fungsi-aljabar-di-xa-dengan-cara-dikali-sekawan-contoh-3.html",
+  "/video-limit-fungsi-aljabar-di-xa-dengan-cara-dikali-sekawan-contoh-1.html": 
+
+"/video-limit-fungsi-aljabar-di-xa-dengan-cara-dikali-sekawan-contoh-1.html",
+  "/video-limit-fungsi-aljabar-di-xa-dengan-cara-dikali-sekawan-contoh-2.html": 
+
+"/video-limit-fungsi-aljabar-di-xa-dengan-cara-dikali-sekawan-contoh-2.html",
+  "/video-limit-fungsi-aljabar-di-xa-dengan-cara-faktorisasi-contoh-1.html": 
+
+"/video-limit-fungsi-aljabar-di-xa-dengan-cara-faktorisasi-contoh-1.html",
+  "/video-pengantar-limit-fungsi-aljabar-di-xa.html": "/video-pengantar-limit-
+
+fungsi-aljabar-di-xa.html",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
 };
 window.onload = function(e){
   var url_path = window.location.pathname;
   if(url_path in url_baru) {
     var next_url = url_baru[url_path];
     var new_url = window.location.origin + next_url;
-    document.getElementById('container').innerHTML = 'Halaman sudah berganti alamat ke <br> <a href="' + new_url + '">' + new_url + '</a><br> Halaman akan segera dialihkan';
+    document.getElementById('container').innerHTML = 'Halaman sudah berganti 
+
+alamat ke <br> <a href="' + new_url + '">' + new_url + '</a><br> Halaman akan 
+
+segera dialihkan';
     setTimeout(function(){window.location.replace(next_url);}, 5000);
   }
 };
