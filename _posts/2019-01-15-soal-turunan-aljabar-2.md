@@ -5,8 +5,8 @@ date: '2019-01-15 16:08:31 +0700'
 categories:
   - Turunan
 tags: Soal
-permalink: soal-turunan-aljabar-2.html
-title: Soal Turunan Aljabar 2
+permalink: soal-2-turunan-aljabar.html
+title: Soal 2 Turunan Aljabar
 ---
 Setelah mencoba soal turunan bagian pertama, mari kita coba latihan soal turunan dan pembahasan soal turunan yang lain yuk ……..jangan lupa rumus-rumus turunan kemarin yah !!!
 
