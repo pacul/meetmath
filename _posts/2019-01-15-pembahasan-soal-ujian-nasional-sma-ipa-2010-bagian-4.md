@@ -57,31 +57,13 @@ $\\left\[\\begin{array}{cc}-1 & 0\\\\0 & 1\\end{array}\\right\]$ adalah…
         
         $4x+20y=1760$
         
-        x
-        
-        0
-        
-        440
-        
-        y
-        
-        88
-        
-        0
+        x | 0 | 440
+        y | 88 | 0
         
         $x+y=200$
         
-        x
-        
-        0
-        
-        200
-        
-        y
-        
-        200
-        
-        0
+        x | 0 | 200
+        y | 200 | 0
         
         Titik potong dua garis
         
